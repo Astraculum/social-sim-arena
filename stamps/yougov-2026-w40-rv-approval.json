@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-09-27T17:01:16Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "766c22f07ebb8f760eb869b3aa6d7f85f73c74062f35fc112efbaa241624744e",
+    "ewma": "a9825d199e7e75290eec7b9cccda27e940a4485881676b6e249da6380ee0b247",
+    "persistence": "8c25390b6112579fe9b75f56e700a9b962d99fa2adc9ff978ba777929393c60b",
+    "trend": "719b6275ca1d03784790502813b1239716bb0c15464faf9fb54656c048119972"
+  },
+  "lock_at": "2026-09-27T14:00:00Z",
+  "lock_snapshot_sha256": "55ee36a92c21b4146fde9bbe0e4a266bc37818dc588705882574f74e8137c077",
+  "round_id": "yougov-2026-w40-rv-approval"
+}
