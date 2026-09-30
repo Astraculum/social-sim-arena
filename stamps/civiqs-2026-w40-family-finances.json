@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-09-30T22:20:11Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "1a0b1b4c80f37c77bf0c0ee2c327aaf44679ea6030b1d93f7be7f5ab8c3f4ec5",
+    "ewma": "d5d128cd516c8577e23cf5f65e7121c8fedc55b4c5b7d30c8dc6983b106d5a0f",
+    "persistence": "bafd8e4221d94069e41c596207125b93267cfe6b98ca1f32c079660443cb63c1",
+    "trend": "7d8d43f5e9e96629506a7d1b01be0516de9c1302fc8f80cf42a033c156c96153"
+  },
+  "lock_at": "2026-09-30T14:00:00Z",
+  "lock_snapshot_sha256": "8b587934faf3eb0af08ef3e684b31d428fd61846be58a5d467c66d877cd27bf9",
+  "round_id": "civiqs-2026-w40-family-finances"
+}

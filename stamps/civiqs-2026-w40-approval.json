@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-09-30T22:20:06Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "582d4342c6cf051b03d94343b4225dbb3b343171cedcd8d391546770104319bb",
+    "ewma": "6d7192cd430d6f22640d23452532cb64eda60209c0dd94341d0ff9dd148ba238",
+    "persistence": "75b01ae0bf9c1be944b437429e0650f14a06a92613593f5c25a823e056a75189",
+    "trend": "7c17753371c21abdbd13c1a3c03ff5e5f41a0d592c0cd788ba9da5643fbae2b0"
+  },
+  "lock_at": "2026-09-30T14:00:00Z",
+  "lock_snapshot_sha256": "0efbad82a72593441c3a71f134f97e2c862f2673413f47777214eeee8f4aa048",
+  "round_id": "civiqs-2026-w40-approval"
+}

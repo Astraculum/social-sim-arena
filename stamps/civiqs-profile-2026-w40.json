@@ -1,0 +1,11 @@
+{
+  "built_at": "2026-09-30T22:20:03Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 1,
+  "forecasts": {
+    "persistence": "6bad68bf793e93c553f8065f2555ae87ae54d1507c07e6dfd39fff1ab1d09d87"
+  },
+  "lock_at": "2026-09-30T22:00:00Z",
+  "lock_snapshot_sha256": "385d3f4cb97b9690050ad4d5dd4d1ce51457cbfcf70832d49ea24be3b99ff005",
+  "round_id": "civiqs-profile-2026-w40"
+}
