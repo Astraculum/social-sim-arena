@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-01T13:24:16Z",
+ "generated_at": "2026-10-01T22:46:05Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
    "label": "Trump approval, adjusted average",
    "unit": "% approve",
-   "value": 39.4,
+   "value": 39.3,
    "asof": "2026-09-27",
-   "delta_30d": -0.7,
-   "n_polls_window": 46,
+   "delta_30d": -0.8,
+   "n_polls_window": 48,
    "source": "Silver Bulletin poll database, house-effect adjusted here, 21-day window"
   },
   "generic_ballot_avg": {
    "label": "2026 generic ballot, adjusted average",
    "unit": "margin, Dem minus Rep",
-   "value": 8.8,
+   "value": 8.7,
    "asof": "2026-09-27",
-   "delta_30d": 2.8,
-   "n_polls_window": 30,
+   "delta_30d": 2.6,
+   "n_polls_window": 31,
    "source": "Silver Bulletin poll database, house-effect adjusted here, 21-day window"
   },
   "yougov_approval": {
@@ -44015,7 +44015,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -44267,7 +44267,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -44519,7 +44519,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -45076,6 +45076,7 @@
     "trends_share_disney"
    ],
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": null,
    "scoreable": true,
    "profile": {
@@ -45100,6 +45101,7 @@
      "trends_share_netflix": 57,
      "trends_share_disney": 57
     },
+    "history_source": "window snapshot",
     "baselines": {
      "persistence": {
       "trends_share_tesla": {
@@ -45133,7 +45135,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 5,
      "cells": {
@@ -45188,6 +45190,7 @@
     "week_end": "2026-10-11",
     "rbo_p": 0.9,
     "exclusions": "main_page_and_namespaces_v1",
+    "history_source": "window snapshot",
     "history_weeks": 5,
     "baselines": {
      "persistence": {
@@ -45211,7 +45214,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "ranking",
      "items_n": 10,
      "items": [
@@ -45272,25 +45275,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.27,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.57,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.58,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.8,
      "sd": 1.8
@@ -45340,25 +45343,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.0,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.21,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.19,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 3.32,
      "sd": 1.8
@@ -45408,25 +45411,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.7,
      "sd": 1.21
@@ -45476,25 +45479,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -38.22,
      "sd": 3.03
@@ -45544,25 +45547,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.3,
      "sd": 1.21
@@ -45749,7 +45752,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -45902,7 +45905,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 5,
      "cells": {
@@ -45980,7 +45983,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "ranking",
      "items_n": 10,
      "items": [
@@ -46178,7 +46181,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -46331,7 +46334,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 5,
      "cells": {
@@ -46409,7 +46412,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "ranking",
      "items_n": 10,
      "items": [
@@ -46470,25 +46473,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 43.2,
      "sd": 1.64
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 42.84,
      "sd": 1.5
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 42.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 41.09,
      "sd": 3.98
@@ -46675,7 +46678,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -46766,23 +46769,23 @@
    "status": "open",
    "baselines": {
     "persistence": {
-     "mean": 8.85,
+     "mean": 8.7,
      "sd": 1.5,
      "method": "persistence"
     },
     "trend": {
-     "mean": 9.99,
+     "mean": 9.72,
      "sd": 1.78,
      "method": "trend_ols"
     },
     "ewma": {
-     "mean": 8.0,
+     "mean": 7.87,
      "sd": 1.0,
      "method": "ewma"
     },
     "climatology": {
-     "mean": 6.3,
-     "sd": 1.28,
+     "mean": 6.26,
+     "sd": 1.22,
      "method": "climatology"
     }
    },
@@ -46838,10 +46841,10 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
-     "mean": 6.3,
-     "sd": 1.28
+     "mean": 6.26,
+     "sd": 1.22
     },
     "crowd": {
      "filed": "2026-09-11T14:55Z",
@@ -46874,9 +46877,9 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
-     "mean": 8.0,
+     "mean": 7.87,
      "sd": 1.0
     },
     "gemini-flash-zeroshot": {
@@ -46964,9 +46967,9 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
-     "mean": 8.85,
+     "mean": 8.7,
      "sd": 1.5
     },
     "qwen-3.7-zeroshot": {
@@ -46994,9 +46997,9 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
-     "mean": 9.99,
+     "mean": 9.72,
      "sd": 1.78
     }
    }
@@ -48486,25 +48489,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -27.31,
      "sd": 2.27
@@ -48554,25 +48557,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -43.29,
      "sd": 1.73
@@ -48622,25 +48625,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.49,
      "sd": 2.4
@@ -48690,25 +48693,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.3
@@ -48758,25 +48761,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.45
@@ -48826,25 +48829,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 1.87
@@ -48894,25 +48897,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.26
@@ -48962,25 +48965,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.3
@@ -49030,25 +49033,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.59
@@ -49098,25 +49101,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.39
@@ -49166,25 +49169,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.61
@@ -49234,25 +49237,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 1.99
@@ -49302,25 +49305,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.48
@@ -49370,25 +49373,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.39
@@ -49438,25 +49441,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.76
@@ -49544,7 +49547,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 5,
      "cells": {
@@ -49622,7 +49625,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "ranking",
      "items_n": 10,
      "items": [
@@ -49683,25 +49686,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.47
@@ -49751,25 +49754,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.76
@@ -49819,25 +49822,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 2.11
@@ -49887,25 +49890,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.68
@@ -49955,25 +49958,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.47
@@ -50023,25 +50026,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.92
@@ -50228,7 +50231,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -50851,25 +50854,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 39.21,
      "sd": 1.56
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.8,
      "sd": 1.33
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 35.65,
      "sd": 2.86
@@ -50919,25 +50922,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 19.0,
      "sd": 2.16
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.77,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 14.86,
      "sd": 2.62
@@ -50987,25 +50990,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 39.21,
      "sd": 1.56
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.8,
      "sd": 1.33
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 35.18,
      "sd": 3.1
@@ -51055,25 +51058,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 19.0,
      "sd": 2.16
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.77,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 13.42,
      "sd": 2.84
@@ -51123,25 +51126,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 39.21,
      "sd": 1.56
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.8,
      "sd": 1.33
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 34.9,
      "sd": 3.32
@@ -51191,25 +51194,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 19.0,
      "sd": 2.16
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.77,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 12.6,
      "sd": 3.05
@@ -51259,25 +51262,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 39.21,
      "sd": 1.56
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.8,
      "sd": 1.33
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 34.9,
      "sd": 3.53
@@ -51327,25 +51330,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 19.0,
      "sd": 2.16
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.77,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 12.6,
      "sd": 3.24
@@ -51532,7 +51535,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -51647,25 +51650,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 39.21,
      "sd": 1.56
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.8,
      "sd": 1.33
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 36.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 34.9,
      "sd": 3.73
@@ -51715,25 +51718,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 19.0,
      "sd": 2.16
     },
     "ewma": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.77,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 18.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "number",
      "mean": 12.6,
      "sd": 3.42
@@ -51920,7 +51923,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-01T13:22Z",
+     "filed": "2026-10-01T22:43Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -52939,6 +52942,16 @@
    "last_filed": "2026-08-18T07:29Z",
    "by": "rule"
   },
+  "claude-opus-5-web": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:00Z",
+   "by": "rule"
+  },
+  "claude-opus-5-web-superfc": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:02Z",
+   "by": "rule"
+  },
   "claude-opus-5-zeroshot": {
    "retired_at": "2026-09-01",
    "last_filed": "2026-08-18T07:29Z",
@@ -53062,6 +53075,16 @@
   "gemini-flash-superfc": {
    "retired_at": "2026-09-01",
    "last_filed": "2026-08-18T07:29Z",
+   "by": "rule"
+  },
+  "gemini-flash-web": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:00Z",
+   "by": "rule"
+  },
+  "gemini-flash-web-superfc": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:02Z",
    "by": "rule"
   },
   "gemini-flash-zeroshot": {
@@ -53194,6 +53217,16 @@
    "last_filed": "2026-08-18T07:29Z",
    "by": "rule"
   },
+  "gpt-5.6-terra-web": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:04Z",
+   "by": "rule"
+  },
+  "gpt-5.6-terra-web-superfc": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:04Z",
+   "by": "rule"
+  },
   "gpt-5.6-terra-zeroshot": {
    "retired_at": "2026-09-01",
    "last_filed": "2026-08-18T07:29Z",
@@ -53254,6 +53287,16 @@
    "last_filed": "2026-08-18T07:29Z",
    "by": "rule"
   },
+  "kimi-web": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:09Z",
+   "by": "rule"
+  },
+  "kimi-web-superfc": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:05Z",
+   "by": "rule"
+  },
   "kimi-zeroshot": {
    "retired_at": "2026-09-01",
    "last_filed": "2026-08-18T07:29Z",
@@ -53292,6 +53335,16 @@
   "qwen-3.8-superfc": {
    "retired_at": "2026-09-01",
    "last_filed": "2026-08-18T07:29Z",
+   "by": "rule"
+  },
+  "qwen-3.8-web": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:15Z",
+   "by": "rule"
+  },
+  "qwen-3.8-web-superfc": {
+   "retired_at": "2026-10-01",
+   "last_filed": "2026-09-17T17:19Z",
    "by": "rule"
   },
   "qwen-3.8-zeroshot": {
@@ -82143,7 +82196,7 @@
   "approval_avg": [
    {
     "date": "2025-03-23",
-    "value": 48.09
+    "value": 48.11
    },
    {
     "date": "2025-03-30",
@@ -82155,7 +82208,7 @@
    },
    {
     "date": "2025-04-13",
-    "value": 45.95
+    "value": 45.94
    },
    {
     "date": "2025-04-20",
@@ -82167,7 +82220,7 @@
    },
    {
     "date": "2025-05-04",
-    "value": 45.46
+    "value": 45.47
    },
    {
     "date": "2025-05-11",
@@ -82179,7 +82232,7 @@
    },
    {
     "date": "2025-05-25",
-    "value": 46.82
+    "value": 46.81
    },
    {
     "date": "2025-06-01",
@@ -82187,7 +82240,7 @@
    },
    {
     "date": "2025-06-08",
-    "value": 47.12
+    "value": 47.13
    },
    {
     "date": "2025-06-15",
@@ -82199,19 +82252,19 @@
    },
    {
     "date": "2025-06-29",
-    "value": 46.48
+    "value": 46.47
    },
    {
     "date": "2025-07-06",
-    "value": 46.38
+    "value": 46.37
    },
    {
     "date": "2025-07-13",
-    "value": 45.46
+    "value": 45.48
    },
    {
     "date": "2025-07-20",
-    "value": 45.0
+    "value": 45.01
    },
    {
     "date": "2025-07-27",
@@ -82223,15 +82276,15 @@
    },
    {
     "date": "2025-08-10",
-    "value": 44.64
+    "value": 44.63
    },
    {
     "date": "2025-08-17",
-    "value": 45.15
+    "value": 45.14
    },
    {
     "date": "2025-08-24",
-    "value": 45.27
+    "value": 45.28
    },
    {
     "date": "2025-08-31",
@@ -82243,7 +82296,7 @@
    },
    {
     "date": "2025-09-14",
-    "value": 45.32
+    "value": 45.33
    },
    {
     "date": "2025-09-21",
@@ -82255,11 +82308,11 @@
    },
    {
     "date": "2025-10-05",
-    "value": 44.95
+    "value": 44.94
    },
    {
     "date": "2025-10-12",
-    "value": 45.21
+    "value": 45.22
    },
    {
     "date": "2025-10-19",
@@ -82275,7 +82328,7 @@
    },
    {
     "date": "2025-11-09",
-    "value": 42.8
+    "value": 42.81
    },
    {
     "date": "2025-11-16",
@@ -82287,11 +82340,11 @@
    },
    {
     "date": "2025-11-30",
-    "value": 42.57
+    "value": 42.56
    },
    {
     "date": "2025-12-07",
-    "value": 43.41
+    "value": 43.42
    },
    {
     "date": "2025-12-14",
@@ -82299,19 +82352,19 @@
    },
    {
     "date": "2025-12-21",
-    "value": 43.35
+    "value": 43.36
    },
    {
     "date": "2025-12-28",
-    "value": 43.47
+    "value": 43.46
    },
    {
     "date": "2026-01-04",
-    "value": 42.91
+    "value": 42.9
    },
    {
     "date": "2026-01-11",
-    "value": 43.09
+    "value": 43.1
    },
    {
     "date": "2026-01-18",
@@ -82327,7 +82380,7 @@
    },
    {
     "date": "2026-02-08",
-    "value": 42.04
+    "value": 42.05
    },
    {
     "date": "2026-02-15",
@@ -82339,7 +82392,7 @@
    },
    {
     "date": "2026-03-01",
-    "value": 43.09
+    "value": 43.08
    },
    {
     "date": "2026-03-08",
@@ -82347,7 +82400,7 @@
    },
    {
     "date": "2026-03-15",
-    "value": 41.95
+    "value": 41.94
    },
    {
     "date": "2026-03-22",
@@ -82363,15 +82416,15 @@
    },
    {
     "date": "2026-04-12",
-    "value": 40.98
+    "value": 40.97
    },
    {
     "date": "2026-04-19",
-    "value": 40.7
+    "value": 40.72
    },
    {
     "date": "2026-04-26",
-    "value": 40.73
+    "value": 40.74
    },
    {
     "date": "2026-05-03",
@@ -82379,15 +82432,15 @@
    },
    {
     "date": "2026-05-10",
-    "value": 40.08
+    "value": 40.07
    },
    {
     "date": "2026-05-17",
-    "value": 39.78
+    "value": 39.79
    },
    {
     "date": "2026-05-24",
-    "value": 39.83
+    "value": 39.84
    },
    {
     "date": "2026-05-31",
@@ -82395,19 +82448,19 @@
    },
    {
     "date": "2026-06-07",
-    "value": 39.7
+    "value": 39.69
    },
    {
     "date": "2026-06-14",
-    "value": 39.83
+    "value": 39.85
    },
    {
     "date": "2026-06-21",
-    "value": 40.19
+    "value": 40.2
    },
    {
     "date": "2026-06-28",
-    "value": 40.42
+    "value": 40.43
    },
    {
     "date": "2026-07-05",
@@ -82415,7 +82468,7 @@
    },
    {
     "date": "2026-07-12",
-    "value": 40.66
+    "value": 40.65
    },
    {
     "date": "2026-07-19",
@@ -82423,7 +82476,7 @@
    },
    {
     "date": "2026-07-26",
-    "value": 40.23
+    "value": 40.24
    },
    {
     "date": "2026-08-02",
@@ -82435,11 +82488,11 @@
    },
    {
     "date": "2026-08-16",
-    "value": 39.93
+    "value": 39.92
    },
    {
     "date": "2026-08-23",
-    "value": 39.66
+    "value": 39.65
    },
    {
     "date": "2026-08-30",
@@ -82451,7 +82504,7 @@
    },
    {
     "date": "2026-09-13",
-    "value": 39.9
+    "value": 39.89
    },
    {
     "date": "2026-09-20",
@@ -82459,45 +82512,45 @@
    },
    {
     "date": "2026-09-27",
-    "value": 39.44
+    "value": 39.26
    }
   ],
   "generic_margin": [
    {
     "date": "2025-03-23",
-    "value": -0.01
+    "value": 0.0
    },
    {
     "date": "2025-03-30",
-    "value": 0.34
+    "value": 0.36
    },
    {
     "date": "2025-04-06",
-    "value": 0.82
+    "value": 0.84
    },
    {
     "date": "2025-04-13",
-    "value": 1.25
+    "value": 1.26
    },
    {
     "date": "2025-04-20",
-    "value": 2.21
+    "value": 2.22
    },
    {
     "date": "2025-04-27",
-    "value": 2.3
+    "value": 2.31
    },
    {
     "date": "2025-05-04",
-    "value": 2.83
+    "value": 2.84
    },
    {
     "date": "2025-05-11",
-    "value": 1.42
+    "value": 1.44
    },
    {
     "date": "2025-05-18",
-    "value": 0.92
+    "value": 0.93
    },
    {
     "date": "2025-05-25",
@@ -82505,11 +82558,11 @@
    },
    {
     "date": "2025-06-01",
-    "value": 1.53
+    "value": 1.54
    },
    {
     "date": "2025-06-08",
-    "value": 1.36
+    "value": 1.38
    },
    {
     "date": "2025-06-15",
@@ -82525,11 +82578,11 @@
    },
    {
     "date": "2025-07-06",
-    "value": 1.98
+    "value": 1.99
    },
    {
     "date": "2025-07-13",
-    "value": 1.59
+    "value": 1.6
    },
    {
     "date": "2025-07-20",
@@ -82545,7 +82598,7 @@
    },
    {
     "date": "2025-08-10",
-    "value": 2.94
+    "value": 2.95
    },
    {
     "date": "2025-08-17",
@@ -82565,7 +82618,7 @@
    },
    {
     "date": "2025-09-14",
-    "value": 2.93
+    "value": 2.94
    },
    {
     "date": "2025-09-21",
@@ -82577,11 +82630,11 @@
    },
    {
     "date": "2025-10-05",
-    "value": 2.75
+    "value": 2.76
    },
    {
     "date": "2025-10-12",
-    "value": 2.88
+    "value": 2.89
    },
    {
     "date": "2025-10-19",
@@ -82593,11 +82646,11 @@
    },
    {
     "date": "2025-11-02",
-    "value": 3.0
+    "value": 3.01
    },
    {
     "date": "2025-11-09",
-    "value": 3.75
+    "value": 3.76
    },
    {
     "date": "2025-11-16",
@@ -82609,11 +82662,11 @@
    },
    {
     "date": "2025-11-30",
-    "value": 4.1
+    "value": 4.11
    },
    {
     "date": "2025-12-07",
-    "value": 3.13
+    "value": 3.14
    },
    {
     "date": "2025-12-14",
@@ -82621,19 +82674,19 @@
    },
    {
     "date": "2025-12-21",
-    "value": 3.82
+    "value": 3.83
    },
    {
     "date": "2025-12-28",
-    "value": 3.76
+    "value": 3.78
    },
    {
     "date": "2026-01-04",
-    "value": 4.86
+    "value": 4.89
    },
    {
     "date": "2026-01-11",
-    "value": 4.01
+    "value": 4.02
    },
    {
     "date": "2026-01-18",
@@ -82645,11 +82698,11 @@
    },
    {
     "date": "2026-02-01",
-    "value": 4.55
+    "value": 4.56
    },
    {
     "date": "2026-02-08",
-    "value": 4.57
+    "value": 4.58
    },
    {
     "date": "2026-02-15",
@@ -82669,7 +82722,7 @@
    },
    {
     "date": "2026-03-15",
-    "value": 4.76
+    "value": 4.77
    },
    {
     "date": "2026-03-22",
@@ -82681,7 +82734,7 @@
    },
    {
     "date": "2026-04-05",
-    "value": 4.39
+    "value": 4.4
    },
    {
     "date": "2026-04-12",
@@ -82713,11 +82766,11 @@
    },
    {
     "date": "2026-05-31",
-    "value": 5.21
+    "value": 5.2
    },
    {
     "date": "2026-06-07",
-    "value": 5.04
+    "value": 5.03
    },
    {
     "date": "2026-06-14",
@@ -82725,15 +82778,15 @@
    },
    {
     "date": "2026-06-21",
-    "value": 4.86
+    "value": 4.85
    },
    {
     "date": "2026-06-28",
-    "value": 5.31
+    "value": 5.32
    },
    {
     "date": "2026-07-05",
-    "value": 4.96
+    "value": 4.97
    },
    {
     "date": "2026-07-12",
@@ -82749,7 +82802,7 @@
    },
    {
     "date": "2026-08-02",
-    "value": 5.34
+    "value": 5.33
    },
    {
     "date": "2026-08-09",
@@ -82757,7 +82810,7 @@
    },
    {
     "date": "2026-08-16",
-    "value": 5.46
+    "value": 5.47
    },
    {
     "date": "2026-08-23",
@@ -82765,7 +82818,7 @@
    },
    {
     "date": "2026-08-30",
-    "value": 5.91
+    "value": 5.92
    },
    {
     "date": "2026-09-06",
@@ -82773,15 +82826,15 @@
    },
    {
     "date": "2026-09-13",
-    "value": 7.62
+    "value": 7.38
    },
    {
     "date": "2026-09-20",
-    "value": 8.12
+    "value": 7.95
    },
    {
     "date": "2026-09-27",
-    "value": 8.85
+    "value": 8.7
    }
   ],
   "umich_sentiment": [
@@ -84602,10 +84655,6 @@
   ],
   "rasmussen_approval": [
    {
-    "date": "2026-09-14",
-    "value": 41.0
-   },
-   {
     "date": "2026-09-16",
     "value": 42.0
    },
@@ -84632,6 +84681,10 @@
    {
     "date": "2026-09-26",
     "value": 44.0
+   },
+   {
+    "date": "2026-09-27",
+    "value": 43.0
    }
   ],
   "rmg_approval": [
@@ -84772,10 +84825,6 @@
   ],
   "mc_generic_margin": [
    {
-    "date": "2026-08-13",
-    "value": 3.9
-   },
-   {
     "date": "2026-08-14",
     "value": 5.0
    },
@@ -84794,6 +84843,10 @@
    {
     "date": "2026-09-10",
     "value": 5.73
+   },
+   {
+    "date": "2026-09-12",
+    "value": 3.0
    },
    {
     "date": "2026-09-17",
@@ -86651,15 +86704,15 @@
    },
    {
     "date": "2026-09-13",
-    "value": 7.72
+    "value": 7.48
    },
    {
     "date": "2026-09-20",
-    "value": 8.14
+    "value": 7.98
    },
    {
     "date": "2026-09-27",
-    "value": 8.85
+    "value": 8.7
    }
   ]
  },
@@ -89724,25 +89777,25 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-01T13:24:16Z",
-   "sha256": "022ab3a10e2e0d5d592ba3101992c63f0ed5c47e448d59db8ba88eab45898c23",
-   "bytes": 1673908,
+   "fetched_at": "2026-10-01T22:46:06Z",
+   "sha256": "617bab0772ed50b60ab1ea09d5eeab1cdf96fe9099e0e44df6d58ca4294d376c",
+   "bytes": 1677503,
    "file": "sources/sb_approval/2026-10-01.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
   },
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-01T13:24:17Z",
-   "sha256": "be5eb84b5ba5f10b924e1e8dafe15362cb6807c236520b8600d725e710c317d2",
-   "bytes": 167372,
+   "fetched_at": "2026-10-01T22:46:06Z",
+   "sha256": "c0cfa8fbd0ef7bfbee6fec84060827a2a6034cbfcca140afb84a03ff2984ae03",
+   "bytes": 167988,
    "file": "sources/sb_generic/2026-10-01.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
   },
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-01T13:24:17Z",
+   "fetched_at": "2026-10-01T22:46:06Z",
    "sha256": "a5aa98b53b23ce479f42e8d2ea2228a27bd4222e301870e45ead51303e5a6214",
    "bytes": 14398,
    "file": "sources/umich/2026-10-01.json",
@@ -89751,9 +89804,9 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-01T13:24:17Z",
-   "sha256": "0d552865190fa93f51c0fababd1598c94ead42e65894b2af938b98c39e53e2b8",
-   "bytes": 46414,
+   "fetched_at": "2026-10-01T22:46:07Z",
+   "sha256": "4c57c7545e2d982de6af3ca64b000ce056002bbf188acfdf2482c8ca4758eb82",
+   "bytes": 46413,
    "file": "sources/aaii/2026-10-01.html",
    "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-01; the full 1987-present .xls is OLE2 and unreadable without a dependency"
   },
@@ -94078,8 +94131,8 @@
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 6.6,
-   "changed_days": 10.6,
+   "fetched_days": 6.9,
+   "changed_days": 10.9,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -94088,176 +94141,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 6.6,
-     "changed_days": 7.6,
+     "fetched_days": 6.9,
+     "changed_days": 7.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 6.6,
-     "changed_days": 7.6,
+     "fetched_days": 6.9,
+     "changed_days": 7.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 5.6,
-     "changed_days": 6.6,
+     "fetched_days": 5.9,
+     "changed_days": 6.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 5.6,
-     "changed_days": 7.6,
+     "fetched_days": 5.9,
+     "changed_days": 7.9,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 5.6,
-     "changed_days": 8.6,
+     "fetched_days": 5.9,
+     "changed_days": 8.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 5.6,
-     "changed_days": 7.6,
+     "fetched_days": 5.9,
+     "changed_days": 7.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 5.6,
-     "changed_days": 7.6,
+     "fetched_days": 5.9,
+     "changed_days": 7.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 5.6,
-     "changed_days": 10.6,
+     "fetched_days": 5.9,
+     "changed_days": 10.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -94317,7 +94370,7 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": 0.0,
+   "fetched_days": -0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
@@ -94338,7 +94391,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 5.8,
+   "changed_days": 6.2,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -94346,7 +94399,7 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-01T13:24:16Z",
+  "generated_at": "2026-10-01T22:46:05Z",
   "source_states": [
    {
     "attempts": 1,
@@ -94359,7 +94412,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-10-01.html sha256=0d552865190fa93f51c0fababd1598c94ead42e65894b2af938b98c39e53e2b8"
+     "sources/aaii/2026-10-01.html sha256=4c57c7545e2d982de6af3ca64b000ce056002bbf188acfdf2482c8ca4758eb82"
     ],
     "alert": false,
     "source": "aaii",
@@ -94368,7 +94421,7 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-01T19:24:16Z",
+    "next_retry": "2026-10-02T04:46:05Z",
     "next_lock": "2026-10-02T14:00:00Z",
     "next_deadline": "2026-10-02T14:00:00Z",
     "route": "ssa.series:civiqs",
@@ -94376,7 +94429,7 @@
     "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=6.6; changed_days=10.6; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=6.9; changed_days=10.9; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
@@ -94425,8 +94478,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-01.csv sha256=022ab3a10e2e0d5d592ba3101992c63f0ed5c47e448d59db8ba88eab45898c23"
+     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-10-01.csv sha256=617bab0772ed50b60ab1ea09d5eeab1cdf96fe9099e0e44df6d58ca4294d376c"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -94443,7 +94496,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-01.csv sha256=be5eb84b5ba5f10b924e1e8dafe15362cb6807c236520b8600d725e710c317d2"
+     "sources/sb_generic/2026-10-01.csv sha256=c0cfa8fbd0ef7bfbee6fec84060827a2a6034cbfcca140afb84a03ff2984ae03"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -94507,7 +94560,7 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=5.8; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=6.2; fetch_budget=3; change_budget=40",
      "sources/umich/2026-10-01.json sha256=a5aa98b53b23ce479f42e8d2ea2228a27bd4222e301870e45ead51303e5a6214"
     ],
     "alert": false,
@@ -94563,7 +94616,968 @@
     "state": "healthy"
    }
   ],
-  "entrant_round_states": [],
+  "entrant_round_states": [
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "trends-basket-2026-10-10",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-02T14:00:00Z",
+    "next_lock": "2026-10-02T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "wiki-top10-2026-10-11",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   }
+  ],
   "counts": {
    "sources": {
     "deadline_risk": 0,
@@ -94578,10 +95592,458 @@
     "retryable_failure": 0,
     "running": 0,
     "succeeded": 0,
-    "terminal_failure": 0
+    "terminal_failure": 64
    }
   },
   "alerts": [
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "trends-basket-2026-10-10/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "wiki-top10-2026-10-11/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A ranking round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
    {
     "kind": "source",
     "id": "civiqs",
