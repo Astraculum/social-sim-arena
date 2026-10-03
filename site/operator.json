@@ -2139,7 +2139,7 @@
       "state": "terminal_failure"
     }
   ],
-  "generated_at": "2026-10-03T16:22:08Z",
+  "generated_at": "2026-10-03T21:21:35Z",
   "source_states": [
     {
       "alert": false,
@@ -2147,7 +2147,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-        "sources/aaii/2026-10-03.html sha256=fbe499dfeadf42954cbf8af3076979063aaa5f3b4ebb19ff83a06e956f32abe5"
+        "sources/aaii/2026-10-03.html sha256=5c3cffc25386c8182f7557e3a7d5f265734292045a0b6a6d1462b0236ea1b8e9"
       ],
       "last_error": null,
       "next_deadline": "2026-10-04T14:00:00Z",
@@ -2164,13 +2164,13 @@
       "estimated_spend": 0.0,
       "evidence": [
         "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-        "fetched_days=8.7; changed_days=12.7; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+        "fetched_days=8.9; changed_days=12.9; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
         "live attempt failed; same-source archive used"
       ],
       "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
       "next_deadline": "2026-10-04T14:00:00Z",
       "next_lock": "2026-10-04T14:00:00Z",
-      "next_retry": "2026-10-03T22:22:08Z",
+      "next_retry": "2026-10-04T03:21:35Z",
       "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
       "route": "ssa.series:civiqs",
       "source": "civiqs",
@@ -2214,7 +2214,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-        "sources/sb_approval/2026-10-03.csv sha256=f527e6e24b6bcbd191f6c5c0d8e6c55692607474d54804d329cc243dc99b0a8e"
+        "sources/sb_approval/2026-10-03.csv sha256=94f5728e37c315326583b31007bb240535d57d04f3a690bae1ecd7f80955be4e"
       ],
       "last_error": null,
       "next_deadline": "2026-10-04T14:00:00Z",
@@ -2231,7 +2231,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-        "sources/sb_generic/2026-10-03.csv sha256=a39c3011f94318b6286f826661183c06aa8368ec020e14029958683de55b20ca"
+        "sources/sb_generic/2026-10-03.csv sha256=2b3fac11e4fdc122b526dc2ffb24319e354b3854723ce63729ab2162622836fa"
       ],
       "last_error": null,
       "next_deadline": "2026-10-04T14:00:00Z",
@@ -2295,7 +2295,7 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=-0.0; changed_days=8.0; fetch_budget=3; change_budget=40",
+        "fetched_days=-0.0; changed_days=8.2; fetch_budget=3; change_budget=40",
         "sources/umich/2026-10-03.json sha256=a5aa98b53b23ce479f42e8d2ea2228a27bd4222e301870e45ead51303e5a6214"
       ],
       "last_error": null,
