@@ -1131,7 +1131,7 @@
       "id": "civiqs-2026-w41-inflation-concern/claude-fable-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1152,14 +1152,14 @@
       "id": "civiqs-2026-w41-inflation-concern/claude-opus-5-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/claude-opus-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1173,7 +1173,7 @@
       "id": "civiqs-2026-w41-inflation-concern/claude-sonnet-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1194,14 +1194,14 @@
       "id": "civiqs-2026-w41-inflation-concern/deepseek-pro",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/deepseek-pro-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1215,7 +1215,7 @@
       "id": "civiqs-2026-w41-inflation-concern/gemini-flash-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1229,21 +1229,21 @@
       "id": "civiqs-2026-w41-inflation-concern/gemini-pro-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/glm",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/glm-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1257,7 +1257,7 @@
       "id": "civiqs-2026-w41-inflation-concern/gpt-5.6-luna-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1271,7 +1271,7 @@
       "id": "civiqs-2026-w41-inflation-concern/gpt-5.6-sol-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1285,7 +1285,7 @@
       "id": "civiqs-2026-w41-inflation-concern/gpt-5.6-terra-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1299,49 +1299,49 @@
       "id": "civiqs-2026-w41-inflation-concern/grok-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/kimi",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/kimi-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/qwen-3.7",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/qwen-3.7-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/qwen-3.8",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
       "id": "civiqs-2026-w41-inflation-concern/qwen-3.8-zeroshot",
       "kind": "entrant_round",
       "last_error": "withheld by the per-run spend ceiling",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "state": "queued"
     },
     {
@@ -1572,8 +1572,8 @@
       "id": "civiqs",
       "kind": "source",
       "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-      "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
-      "state": "stale"
+      "required_action": "restore live access now or hold affected rounds before the deadline; the same-source archive is not a new release",
+      "state": "deadline_risk"
     }
   ],
   "counts": {
@@ -1586,10 +1586,10 @@
       "terminal_failure": 172
     },
     "sources": {
-      "deadline_risk": 0,
+      "deadline_risk": 1,
       "healthy": 12,
       "retryable_failure": 0,
-      "stale": 1,
+      "stale": 0,
       "unresolvable": 0
     }
   },
@@ -4018,8 +4018,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.anthropic.com",
       "state": "queued"
@@ -4063,8 +4063,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.anthropic.com",
       "state": "queued"
@@ -4078,8 +4078,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.anthropic.com",
       "state": "queued"
@@ -4108,8 +4108,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.anthropic.com",
       "state": "queued"
@@ -4153,8 +4153,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.deepseek.com",
       "state": "queued"
@@ -4168,8 +4168,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.deepseek.com",
       "state": "queued"
@@ -4198,8 +4198,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:generativelanguage.googleapis.com",
       "state": "queued"
@@ -4228,8 +4228,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:generativelanguage.googleapis.com",
       "state": "queued"
@@ -4243,8 +4243,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4258,8 +4258,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4288,8 +4288,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.openai.com",
       "state": "queued"
@@ -4318,8 +4318,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.openai.com",
       "state": "queued"
@@ -4348,8 +4348,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.openai.com",
       "state": "queued"
@@ -4378,8 +4378,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:api.x.ai",
       "state": "queued"
@@ -4393,8 +4393,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4408,8 +4408,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4423,8 +4423,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4438,8 +4438,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4453,8 +4453,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4468,8 +4468,8 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
-      "required_action": "leave queued for the next refresh; nearest deadlines run first",
+      "next_retry": "2026-10-07T19:28:57Z",
+      "required_action": "raise the spend ceiling or retry manually before the deadline",
       "round_id": "civiqs-2026-w41-inflation-concern",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
@@ -4483,7 +4483,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4498,7 +4498,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4513,7 +4513,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4528,7 +4528,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4543,7 +4543,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4558,7 +4558,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4573,7 +4573,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4588,7 +4588,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.anthropic.com",
@@ -4603,7 +4603,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.deepseek.com",
@@ -4618,7 +4618,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.deepseek.com",
@@ -4633,7 +4633,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.deepseek.com",
@@ -4648,7 +4648,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.deepseek.com",
@@ -4663,7 +4663,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:generativelanguage.googleapis.com",
@@ -4678,7 +4678,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:generativelanguage.googleapis.com",
@@ -4693,7 +4693,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:generativelanguage.googleapis.com",
@@ -4708,7 +4708,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:generativelanguage.googleapis.com",
@@ -4723,7 +4723,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4738,7 +4738,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4753,7 +4753,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4768,7 +4768,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4783,7 +4783,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4798,7 +4798,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4813,7 +4813,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4828,7 +4828,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.openai.com",
@@ -4843,7 +4843,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.x.ai",
@@ -4858,7 +4858,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:api.x.ai",
@@ -4873,7 +4873,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4888,7 +4888,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4903,7 +4903,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4918,7 +4918,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4933,7 +4933,7 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
@@ -4948,14 +4948,14 @@
       "last_error": "withheld by the per-run spend ceiling",
       "next_deadline": "2026-10-07T22:00:00Z",
       "next_lock": "2026-10-07T22:00:00Z",
-      "next_retry": "2026-10-07T12:04:25Z",
+      "next_retry": "2026-10-07T19:28:57Z",
       "required_action": "leave queued for the next refresh; nearest deadlines run first",
       "round_id": "civiqs-profile-2026-w41",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
     }
   ],
-  "generated_at": "2026-10-07T06:07:36Z",
+  "generated_at": "2026-10-07T13:31:16Z",
   "source_states": [
     {
       "alert": false,
@@ -4963,7 +4963,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-        "sources/aaii/2026-10-07.html sha256=0a0c207c4931ebd381956b44b66ca5e9ee5755c76aacfab8de8691379b2c0ef7"
+        "sources/aaii/2026-10-07.html sha256=b8ae865d7eac9b151fb258a47ff1db76770cbbd3fb26431aa73a23f32d94a3bc"
       ],
       "last_error": null,
       "next_deadline": "2026-10-07T14:00:00Z",
@@ -4980,17 +4980,17 @@
       "estimated_spend": 0.0,
       "evidence": [
         "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-        "fetched_days=12.3; changed_days=16.3; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+        "fetched_days=12.6; changed_days=16.6; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
         "live attempt failed; same-source archive used"
       ],
       "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
       "next_deadline": "2026-10-07T14:00:00Z",
       "next_lock": "2026-10-07T14:00:00Z",
-      "next_retry": "2026-10-07T12:07:36Z",
-      "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
+      "next_retry": "2026-10-07T19:31:16Z",
+      "required_action": "restore live access now or hold affected rounds before the deadline; the same-source archive is not a new release",
       "route": "ssa.series:civiqs",
       "source": "civiqs",
-      "state": "stale"
+      "state": "deadline_risk"
     },
     {
       "alert": false,
@@ -5030,7 +5030,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-        "sources/sb_approval/2026-10-07.csv sha256=dc4173c859803dfb9ea2e4b458af7369e4e6070996aad3060331d60eaa7c763a"
+        "sources/sb_approval/2026-10-07.csv sha256=634d5c4b7cc2b8ea435663dfd0e3293a2da9eb0b1c0435dea14abb59a1751c08"
       ],
       "last_error": null,
       "next_deadline": "2026-10-07T14:00:00Z",
@@ -5047,7 +5047,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-        "sources/sb_generic/2026-10-07.csv sha256=95645008a6243f30e01b10954b0572f3be5cb3cc4f69dabf2dfb4485f15c29fd"
+        "sources/sb_generic/2026-10-07.csv sha256=8abaa0691b73eec911211e4088f77fb867143ee7a64811c69ece9102f90ab45c"
       ],
       "last_error": null,
       "next_deadline": "2026-10-07T14:00:00Z",
@@ -5111,7 +5111,7 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=-0.0; changed_days=11.5; fetch_budget=3; change_budget=40",
+        "fetched_days=-0.0; changed_days=11.8; fetch_budget=3; change_budget=40",
         "sources/umich/2026-10-07.json sha256=a5aa98b53b23ce479f42e8d2ea2228a27bd4222e301870e45ead51303e5a6214"
       ],
       "last_error": null,
