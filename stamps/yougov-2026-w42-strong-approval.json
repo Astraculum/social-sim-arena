@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-10-11T22:01:54Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "18e3ebef4ab8c0d0a6ee261cf60e811204014a8a103533e95d2f15f8d30dbff3",
+    "ewma": "50428c5cccb3323afb881242a1eca97c2906482274ff72256a1ad5c93725368f",
+    "persistence": "a4f0d68f79942d604da82d7884040b96b8ae48e9c9437f89f3f07a2bdc8c3657",
+    "trend": "692595e0cbd0ee80b3ebe9edc4da83d9006bd6e59fc99d5d3c865b47730d1246"
+  },
+  "lock_at": "2026-10-11T14:00:00Z",
+  "lock_snapshot_sha256": "648f61306c0117cb4ada83677ac2ec84a36d46c36f8029f7b61011d09bfa7772",
+  "round_id": "yougov-2026-w42-strong-approval"
+}
