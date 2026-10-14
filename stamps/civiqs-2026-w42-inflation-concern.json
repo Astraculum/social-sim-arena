@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-10-14T17:16:15Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "1bd46872f8878211fdd09a3086e5bfe4576b6fc3e30fc0faff0e110ee76ed998",
+    "ewma": "ac0a545687dcf0fec80285731787819c2cc4db7015189db6da66a8adfda24997",
+    "persistence": "1abf5769a222d0f99dffe1f7acbf7d9527853c7a52b2650a04690850f0dd9ea9",
+    "trend": "648bf87d436946cd238336621d6635320ed8f6cc6f8f3020e576524e3df2b9ec"
+  },
+  "lock_at": "2026-10-14T14:00:00Z",
+  "lock_snapshot_sha256": "9a9f482a8eb57aff3c401f2d74d92ecb30bc263f772670fcf9a992bdc17fd781",
+  "round_id": "civiqs-2026-w42-inflation-concern"
+}
