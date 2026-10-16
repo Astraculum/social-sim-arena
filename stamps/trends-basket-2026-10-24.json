@@ -1,0 +1,11 @@
+{
+  "built_at": "2026-10-16T16:43:22Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 1,
+  "forecasts": {
+    "persistence": "00692701115bb89915cd45c10bc8d313b571ac0e177dbfe9a9595bfa8017c833"
+  },
+  "lock_at": "2026-10-16T14:00:00Z",
+  "lock_snapshot_sha256": "8f68ce5a1d4ec19314abdf475dd824635e522a85a079f523ca4e463b052db3bd",
+  "round_id": "trends-basket-2026-10-24"
+}
