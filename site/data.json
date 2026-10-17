@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T10:50:46Z",
+ "generated_at": "2026-10-17T15:40:51Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
@@ -44473,6 +44473,7 @@
     "yougov_xtab_approve_edu_postgrad"
    ],
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": null,
    "scoreable": true,
    "profile": {
@@ -44513,23 +44514,24 @@
      "yougov_xtab_approve_edu_postgrad": "Economist/YouGov Trump approval, postgraduates"
     },
     "history_points": {
-     "yougov_xtab_approve_dem": 86,
-     "yougov_xtab_approve_ind": 86,
-     "yougov_xtab_approve_rep": 86,
-     "yougov_xtab_approve_age_under_30": 86,
-     "yougov_xtab_approve_age_30_44": 86,
-     "yougov_xtab_approve_age_45_64": 86,
-     "yougov_xtab_approve_age_65_up": 86,
-     "yougov_xtab_approve_race_white": 86,
-     "yougov_xtab_approve_race_black": 86,
-     "yougov_xtab_approve_race_hispanic": 86,
-     "yougov_xtab_approve_male": 86,
-     "yougov_xtab_approve_female": 86,
-     "yougov_xtab_approve_edu_hs_or_less": 86,
-     "yougov_xtab_approve_edu_some_college": 86,
-     "yougov_xtab_approve_edu_college_grad": 86,
-     "yougov_xtab_approve_edu_postgrad": 86
+     "yougov_xtab_approve_dem": 60,
+     "yougov_xtab_approve_ind": 60,
+     "yougov_xtab_approve_rep": 60,
+     "yougov_xtab_approve_age_under_30": 60,
+     "yougov_xtab_approve_age_30_44": 60,
+     "yougov_xtab_approve_age_45_64": 60,
+     "yougov_xtab_approve_age_65_up": 60,
+     "yougov_xtab_approve_race_white": 60,
+     "yougov_xtab_approve_race_black": 60,
+     "yougov_xtab_approve_race_hispanic": 60,
+     "yougov_xtab_approve_male": 60,
+     "yougov_xtab_approve_female": 60,
+     "yougov_xtab_approve_edu_hs_or_less": 60,
+     "yougov_xtab_approve_edu_some_college": 60,
+     "yougov_xtab_approve_edu_college_grad": 60,
+     "yougov_xtab_approve_edu_postgrad": 60
     },
+    "history_source": "window snapshot",
     "baselines": {
      "persistence": {
       "yougov_xtab_approve_dem": {
@@ -44618,7 +44620,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -46040,7 +46042,7 @@
     "trends_share_netflix",
     "trends_share_disney"
    ],
-   "status": "locked",
+   "status": "awaiting_resolution",
    "history_source": "window snapshot",
    "baselines": null,
    "scoreable": true,
@@ -46648,6 +46650,7 @@
    "batch_id": "batch-2026-10-12",
    "domain": "public-opinion",
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": {
     "persistence": {
      "mean": 42.0,
@@ -46674,25 +46677,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 43.2,
      "sd": 1.64
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 42.84,
      "sd": 1.5
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 42.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 41.09,
      "sd": 3.98
@@ -46879,7 +46882,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -47042,7 +47045,7 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 6.75,
      "sd": 1.2
@@ -47078,7 +47081,7 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 8.08,
      "sd": 1.0
@@ -47168,7 +47171,7 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 8.25,
      "sd": 1.5
@@ -47198,7 +47201,7 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 9.89,
      "sd": 1.64
@@ -49311,25 +49314,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.39
@@ -49379,25 +49382,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.61
@@ -49447,25 +49450,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 1.99
@@ -49515,25 +49518,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.48
@@ -49583,25 +49586,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.39
@@ -49651,25 +49654,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.76
@@ -49757,7 +49760,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 5,
      "cells": {
@@ -49835,7 +49838,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "ranking",
      "items_n": 10,
      "items": [
@@ -49896,25 +49899,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.47
@@ -49964,25 +49967,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.76
@@ -50032,25 +50035,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 2.11
@@ -50100,25 +50103,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.68
@@ -50168,25 +50171,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.47
@@ -50236,25 +50239,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.92
@@ -50441,7 +50444,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -51418,6 +51421,7 @@
    "batch_id": "batch-2026-10-12",
    "domain": "public-opinion",
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": {
     "persistence": {
      "mean": 38.0,
@@ -51444,25 +51448,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.53
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 37.57,
      "sd": 1.5
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 38.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 36.48,
      "sd": 3.01
@@ -51486,6 +51490,7 @@
    "batch_id": "batch-2026-10-12",
    "domain": "public-opinion",
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": {
     "persistence": {
      "mean": 20.0,
@@ -51512,25 +51517,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.5,
      "sd": 1.87
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.8,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 20.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.26,
      "sd": 3.57
@@ -51580,25 +51585,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.53
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 37.57,
      "sd": 1.5
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 38.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 36.22,
      "sd": 3.27
@@ -51648,25 +51653,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.5,
      "sd": 1.87
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.8,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 20.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.2,
      "sd": 3.88
@@ -51853,7 +51858,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -51968,25 +51973,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.53
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 37.57,
      "sd": 1.5
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 38.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 36.03,
      "sd": 3.51
@@ -52036,25 +52041,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.5,
      "sd": 1.87
     },
     "ewma": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.8,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 20.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "number",
      "mean": 19.16,
      "sd": 4.16
@@ -52241,7 +52246,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-17T10:48Z",
+     "filed": "2026-10-17T15:38Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -56797,6 +56802,10 @@
    [
     "civiqs-profile-2026-w41",
     "civiqs-profile-2026-w41: cannot resolve 16 of 16 cells: civiqs_net_approval_dem: newest observation 2026-09-25 predates the freeze 2026-10-07; nothing has published since the round froze; civiqs_net_approval_ind: newest observation 2026-09-25 predates the freeze 2026-10-07; nothing has published since the round froze; civiqs_net_approval_rep: newest observation 2026-09-25 predates the freeze 2026-10-07; nothing has published since the round froze ..."
+   ],
+   [
+    "trends-basket-2026-10-17",
+    "trends-basket-2026-10-17: cannot resolve 5 of 5 cells: trends_share_tesla: newest observation 2026-09-19 predates the freeze 2026-10-09; nothing has published since the round froze; trends_share_iphone: newest observation 2026-09-19 predates the freeze 2026-10-09; nothing has published since the round froze; trends_share_samsung: newest observation 2026-09-19 predates the freeze 2026-10-09; nothing has published since the round froze ..."
    ],
    [
     "civiqs-profile-2026-w42",
@@ -90361,8 +90370,8 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-17T10:50:47Z",
-   "sha256": "c8c47cb8967c12001d72d2de0b7aff3897de068b508155945b604164c3fe2c7a",
+   "fetched_at": "2026-10-17T15:40:52Z",
+   "sha256": "3184b2e7c9328b4bf331b2069a2a0c82dfbaefcca2a32768a2c9e1e11cc4a5c7",
    "bytes": 1711050,
    "file": "sources/sb_approval/2026-10-17.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
@@ -90370,16 +90379,16 @@
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-17T10:50:47Z",
-   "sha256": "5274f8b42564d34722c5c12bf6b2250ac290fbacc42e4d95d491ae9a1d5e7dd8",
-   "bytes": 174567,
+   "fetched_at": "2026-10-17T15:40:52Z",
+   "sha256": "a1d0e472d99f489720be3b3bbda8d33742c9d9f5fccd0f33c2a278606b072a6d",
+   "bytes": 174964,
    "file": "sources/sb_generic/2026-10-17.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
   },
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-17T10:50:47Z",
+   "fetched_at": "2026-10-17T15:40:53Z",
    "sha256": "367d14dca6409840976c8f199d00563077da4b18d25a5ab68772e480d4b7874a",
    "bytes": 14400,
    "file": "sources/umich/2026-10-17.json",
@@ -90388,8 +90397,8 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-17T10:50:48Z",
-   "sha256": "40c1167e228d1e6be2f5caf76be908d2637729b5dc4730d09558a5004b58f579",
+   "fetched_at": "2026-10-17T15:40:53Z",
+   "sha256": "15fb8fc148416f8af5a1a1b8ae7eb6f02fbc6961a4f5a8b64c776e088478219d",
    "bytes": 46414,
    "file": "sources/aaii/2026-10-17.html",
    "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-17; the full 1987-present .xls is OLE2 and unreadable without a dependency"
@@ -95245,8 +95254,8 @@
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 22.5,
-   "changed_days": 26.5,
+   "fetched_days": 22.7,
+   "changed_days": 26.7,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -95255,176 +95264,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 22.5,
-     "changed_days": 23.5,
+     "fetched_days": 22.7,
+     "changed_days": 23.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 22.5,
-     "changed_days": 23.5,
+     "fetched_days": 22.7,
+     "changed_days": 23.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 21.5,
-     "changed_days": 22.5,
+     "fetched_days": 21.7,
+     "changed_days": 22.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 21.5,
-     "changed_days": 23.5,
+     "fetched_days": 21.7,
+     "changed_days": 23.7,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 21.5,
-     "changed_days": 24.5,
+     "fetched_days": 21.7,
+     "changed_days": 24.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 21.5,
-     "changed_days": 23.5,
+     "fetched_days": 21.7,
+     "changed_days": 23.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 21.5,
-     "changed_days": 23.5,
+     "fetched_days": 21.7,
+     "changed_days": 23.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 21.5,
-     "changed_days": 26.5,
+     "fetched_days": 21.7,
+     "changed_days": 26.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -95486,7 +95495,7 @@
    "source": "sb_approval",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 0.3,
+   "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
@@ -95496,7 +95505,7 @@
    "source": "sb_generic",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 0.3,
+   "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 10,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
@@ -95506,7 +95515,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 7.5,
+   "changed_days": 7.7,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -95514,7 +95523,7 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-17T10:50:46Z",
+  "generated_at": "2026-10-17T15:40:51Z",
   "source_states": [
    {
     "attempts": 1,
@@ -95527,7 +95536,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-10-17.html sha256=40c1167e228d1e6be2f5caf76be908d2637729b5dc4730d09558a5004b58f579"
+     "sources/aaii/2026-10-17.html sha256=15fb8fc148416f8af5a1a1b8ae7eb6f02fbc6961a4f5a8b64c776e088478219d"
     ],
     "alert": false,
     "source": "aaii",
@@ -95536,7 +95545,7 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-17T16:50:46Z",
+    "next_retry": "2026-10-17T21:40:51Z",
     "next_lock": "2026-10-18T14:00:00Z",
     "next_deadline": "2026-10-18T14:00:00Z",
     "route": "ssa.series:civiqs",
@@ -95544,7 +95553,7 @@
     "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=22.5; changed_days=26.5; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=22.7; changed_days=26.7; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
@@ -95593,8 +95602,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.3; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-17.csv sha256=c8c47cb8967c12001d72d2de0b7aff3897de068b508155945b604164c3fe2c7a"
+     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-10-17.csv sha256=3184b2e7c9328b4bf331b2069a2a0c82dfbaefcca2a32768a2c9e1e11cc4a5c7"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -95610,8 +95619,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.3; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-17.csv sha256=5274f8b42564d34722c5c12bf6b2250ac290fbacc42e4d95d491ae9a1d5e7dd8"
+     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
+     "sources/sb_generic/2026-10-17.csv sha256=a1d0e472d99f489720be3b3bbda8d33742c9d9f5fccd0f33c2a278606b072a6d"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -95675,7 +95684,7 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=7.5; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=7.7; fetch_budget=3; change_budget=40",
      "sources/umich/2026-10-17.json sha256=367d14dca6409840976c8f199d00563077da4b18d25a5ab68772e480d4b7874a"
     ],
     "alert": false,
@@ -95731,7 +95740,1928 @@
     "state": "healthy"
    }
   ],
-  "entrant_round_states": [],
+  "entrant_round_states": [
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "hh-2026-10-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-rv-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-2026-w43-strong-approval",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "next_deadline": "2026-10-18T14:00:00Z",
+    "next_lock": "2026-10-18T14:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "yougov-xtab-2026-w43",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   }
+  ],
   "counts": {
    "sources": {
     "deadline_risk": 0,
@@ -95746,10 +97676,906 @@
     "retryable_failure": 0,
     "running": 0,
     "succeeded": 0,
-    "terminal_failure": 0
+    "terminal_failure": 128
    }
   },
   "alerts": [
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "hh-2026-10-approval/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-rv-approval/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-2026-w43-strong-approval/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "yougov-xtab-2026-w43/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
    {
     "kind": "source",
     "id": "civiqs",
