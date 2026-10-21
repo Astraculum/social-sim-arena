@@ -1,0 +1,14 @@
+{
+  "built_at": "2026-10-21T17:16:50Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 4,
+  "forecasts": {
+    "climatology": "e9f2a3846be7a7a708703de2b205334e38c01d73fd1418a870496de13325a9e1",
+    "ewma": "80bf5a35fabe3a26d8e211fdf720b6adeb168477f12746236e0b07a4cdd86f8b",
+    "persistence": "3225cd5a2ee434200ae03a417d58e51023814455bae370074d7542da51fc6619",
+    "trend": "ce901878e1c9e32c834d134963084a8d2a31719854dc7518df853dc83aec929e"
+  },
+  "lock_at": "2026-10-21T14:00:00Z",
+  "lock_snapshot_sha256": "1e97ae604196d9d3c09bae0b0e8ba35bbf236c29efe5e7d4074ce735d669d6ee",
+  "round_id": "civiqs-2026-w43-econ-now"
+}
