@@ -1,0 +1,11 @@
+{
+  "built_at": "2026-10-23T17:13:36Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 1,
+  "forecasts": {
+    "persistence": "4ea06e1aa8fd758403992fc116684951c866124c2e29c41232f5fc3abbb8448d"
+  },
+  "lock_at": "2026-10-23T14:00:00Z",
+  "lock_snapshot_sha256": "2a36525a8c4a9002cef099a3d842eb5a0bbd5254f8af1feff9dbf64ad311fc3d",
+  "round_id": "wiki-top10-2026-11-01"
+}
