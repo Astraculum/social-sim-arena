@@ -1,0 +1,11 @@
+{
+  "built_at": "2026-10-25T16:27:55Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 1,
+  "forecasts": {
+    "persistence": "e2adacc76aa9d6f72a3d34d82ab1dd93ee755be2937c7a2fa6baba89bf53d8ce"
+  },
+  "lock_at": "2026-10-25T14:00:00Z",
+  "lock_snapshot_sha256": "8a3afe57ecc85a400b54f8698496360683100efcef7d55ae9be7eeb1a5fbe027",
+  "round_id": "yougov-xtab-2026-w44"
+}

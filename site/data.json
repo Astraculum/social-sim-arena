@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:37:49Z",
+ "generated_at": "2026-10-25T16:29:12Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
@@ -47082,7 +47082,7 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 6.96,
      "sd": 1.2
@@ -47118,7 +47118,7 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 8.13,
      "sd": 1.0
@@ -47208,7 +47208,7 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 8.33,
      "sd": 1.5
@@ -47238,7 +47238,7 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 9.4,
      "sd": 1.56
@@ -49945,25 +49945,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.47
@@ -50013,25 +50013,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.76
@@ -50081,25 +50081,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 2.11
@@ -50149,25 +50149,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.68
@@ -50217,25 +50217,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.47
@@ -50285,25 +50285,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.92
@@ -50490,7 +50490,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -51656,7 +51656,7 @@
    "horizon_days": 2.0,
    "batch_id": "batch-2026-10-19",
    "domain": "public-opinion",
-   "status": "open",
+   "status": "locked",
    "history_source": "window snapshot",
    "baselines": {
     "persistence": {
@@ -51725,7 +51725,7 @@
    "horizon_days": 2.0,
    "batch_id": "batch-2026-10-19",
    "domain": "public-opinion",
-   "status": "open",
+   "status": "locked",
    "history_source": "window snapshot",
    "baselines": {
     "persistence": {
@@ -51812,7 +51812,7 @@
     "yougov_xtab_approve_edu_college_grad",
     "yougov_xtab_approve_edu_postgrad"
    ],
-   "status": "open",
+   "status": "locked",
    "history_source": "window snapshot",
    "baselines": null,
    "scoreable": true,
@@ -52075,25 +52075,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.53
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 38.54,
      "sd": 1.58
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 40.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 38.76,
      "sd": 3.37
@@ -52143,25 +52143,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 19.86,
      "sd": 1.95
     },
     "ewma": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 20.68,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 22.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "number",
      "mean": 21.11,
      "sd": 3.79
@@ -52348,7 +52348,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-25T11:35Z",
+     "filed": "2026-10-25T16:26Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -88113,7 +88113,7 @@
  ],
  "entrant_status": {
   "apodex-futureflow": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -88121,7 +88121,7 @@
      "answered": 6
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -88140,7 +88140,7 @@
    "last_call_ok": null
   },
   "claude-fable-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88148,7 +88148,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88167,7 +88167,7 @@
    "last_call_ok": null
   },
   "claude-fable-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88175,7 +88175,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88194,7 +88194,7 @@
    "last_call_ok": null
   },
   "claude-fable-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88202,7 +88202,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88221,7 +88221,7 @@
    "last_call_ok": null
   },
   "claude-fable-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -88229,7 +88229,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -88248,7 +88248,7 @@
    "last_call_ok": null
   },
   "claude-fable": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -88256,7 +88256,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -88275,7 +88275,7 @@
    "last_call_ok": null
   },
   "claude-opus-5-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -88283,7 +88283,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -88302,7 +88302,7 @@
    "last_call_ok": true
   },
   "claude-opus-5-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88310,7 +88310,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88329,7 +88329,7 @@
    "last_call_ok": null
   },
   "claude-opus-5-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -88337,7 +88337,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -88356,7 +88356,7 @@
    "last_call_ok": true
   },
   "claude-opus-5-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88364,7 +88364,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88383,7 +88383,7 @@
    "last_call_ok": true
   },
   "claude-opus-5": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88391,7 +88391,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88410,7 +88410,7 @@
    "last_call_ok": true
   },
   "claude-opus-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88418,7 +88418,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88437,7 +88437,7 @@
    "last_call_ok": null
   },
   "claude-opus-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88445,7 +88445,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88464,7 +88464,7 @@
    "last_call_ok": null
   },
   "claude-opus-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88472,7 +88472,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88491,7 +88491,7 @@
    "last_call_ok": null
   },
   "claude-opus-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -88499,7 +88499,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -88518,7 +88518,7 @@
    "last_call_ok": null
   },
   "claude-opus": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -88526,7 +88526,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -88545,7 +88545,7 @@
    "last_call_ok": null
   },
   "claude-sonnet-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 9,
    "by_domain": {
     "consumer": {
@@ -88553,7 +88553,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -88572,7 +88572,7 @@
    "last_call_ok": true
   },
   "claude-sonnet-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88580,7 +88580,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88599,7 +88599,7 @@
    "last_call_ok": null
   },
   "claude-sonnet-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 15,
    "by_domain": {
     "consumer": {
@@ -88607,7 +88607,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -88626,7 +88626,7 @@
    "last_call_ok": true
   },
   "claude-sonnet-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88634,7 +88634,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88653,7 +88653,7 @@
    "last_call_ok": true
   },
   "claude-sonnet": {
-   "asked": 130,
+   "asked": 133,
    "answered": 21,
    "by_domain": {
     "consumer": {
@@ -88661,7 +88661,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88680,16 +88680,16 @@
    "last_call_ok": true
   },
   "climatology": {
-   "asked": 130,
-   "answered": 99,
+   "asked": 133,
+   "answered": 101,
    "by_domain": {
     "consumer": {
      "asked": 40,
      "answered": 40
     },
     "public-opinion": {
-     "asked": 62,
-     "answered": 49
+     "asked": 65,
+     "answered": 51
     },
     "elections": {
      "asked": 6,
@@ -88707,7 +88707,7 @@
    "last_call_ok": null
   },
   "crowd": {
-   "asked": 130,
+   "asked": 133,
    "answered": 76,
    "by_domain": {
     "consumer": {
@@ -88715,7 +88715,7 @@
      "answered": 21
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 37
     },
     "elections": {
@@ -88734,7 +88734,7 @@
    "last_call_ok": null
   },
   "deepseek-flash-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 7,
    "by_domain": {
     "consumer": {
@@ -88742,7 +88742,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -88761,7 +88761,7 @@
    "last_call_ok": true
   },
   "deepseek-flash-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88769,7 +88769,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88788,7 +88788,7 @@
    "last_call_ok": null
   },
   "deepseek-flash-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 13,
    "by_domain": {
     "consumer": {
@@ -88796,7 +88796,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -88815,7 +88815,7 @@
    "last_call_ok": true
   },
   "deepseek-flash-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88823,7 +88823,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88842,7 +88842,7 @@
    "last_call_ok": true
   },
   "deepseek-flash": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88850,7 +88850,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88869,7 +88869,7 @@
    "last_call_ok": true
   },
   "deepseek-pro-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -88877,7 +88877,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -88896,7 +88896,7 @@
    "last_call_ok": true
   },
   "deepseek-pro-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -88904,7 +88904,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -88923,7 +88923,7 @@
    "last_call_ok": null
   },
   "deepseek-pro-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -88931,7 +88931,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -88950,7 +88950,7 @@
    "last_call_ok": true
   },
   "deepseek-pro-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -88958,7 +88958,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -88977,7 +88977,7 @@
    "last_call_ok": true
   },
   "deepseek-pro": {
-   "asked": 130,
+   "asked": 133,
    "answered": 20,
    "by_domain": {
     "consumer": {
@@ -88985,7 +88985,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89004,16 +89004,16 @@
    "last_call_ok": true
   },
   "ewma": {
-   "asked": 130,
-   "answered": 99,
+   "asked": 133,
+   "answered": 101,
    "by_domain": {
     "consumer": {
      "asked": 40,
      "answered": 40
     },
     "public-opinion": {
-     "asked": 62,
-     "answered": 49
+     "asked": 65,
+     "answered": 51
     },
     "elections": {
      "asked": 6,
@@ -89031,7 +89031,7 @@
    "last_call_ok": null
   },
   "gemini-flash-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 7,
    "by_domain": {
     "consumer": {
@@ -89039,7 +89039,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -89058,7 +89058,7 @@
    "last_call_ok": true
   },
   "gemini-flash-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89066,7 +89066,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89085,7 +89085,7 @@
    "last_call_ok": null
   },
   "gemini-flash-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -89093,7 +89093,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -89112,7 +89112,7 @@
    "last_call_ok": true
   },
   "gemini-flash-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89120,7 +89120,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89139,7 +89139,7 @@
    "last_call_ok": true
   },
   "gemini-flash": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89147,7 +89147,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89166,7 +89166,7 @@
    "last_call_ok": true
   },
   "gemini-pro-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -89174,7 +89174,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 2
     },
     "elections": {
@@ -89193,7 +89193,7 @@
    "last_call_ok": true
   },
   "gemini-pro-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89201,7 +89201,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89220,7 +89220,7 @@
    "last_call_ok": null
   },
   "gemini-pro-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -89228,7 +89228,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -89247,7 +89247,7 @@
    "last_call_ok": true
   },
   "gemini-pro-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89255,7 +89255,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89274,7 +89274,7 @@
    "last_call_ok": true
   },
   "gemini-pro": {
-   "asked": 130,
+   "asked": 133,
    "answered": 21,
    "by_domain": {
     "consumer": {
@@ -89282,7 +89282,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89301,7 +89301,7 @@
    "last_call_ok": true
   },
   "glm-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 6,
    "by_domain": {
     "consumer": {
@@ -89309,7 +89309,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -89328,7 +89328,7 @@
    "last_call_ok": true
   },
   "glm-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89336,7 +89336,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89355,7 +89355,7 @@
    "last_call_ok": null
   },
   "glm-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 13,
    "by_domain": {
     "consumer": {
@@ -89363,7 +89363,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -89382,7 +89382,7 @@
    "last_call_ok": true
   },
   "glm-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 18,
    "by_domain": {
     "consumer": {
@@ -89390,7 +89390,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89409,7 +89409,7 @@
    "last_call_ok": true
   },
   "glm": {
-   "asked": 130,
+   "asked": 133,
    "answered": 18,
    "by_domain": {
     "consumer": {
@@ -89417,7 +89417,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 9
     },
     "elections": {
@@ -89436,7 +89436,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-luna-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 9,
    "by_domain": {
     "consumer": {
@@ -89444,7 +89444,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -89463,7 +89463,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-luna-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89471,7 +89471,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89490,7 +89490,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-luna-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 13,
    "by_domain": {
     "consumer": {
@@ -89498,7 +89498,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -89517,7 +89517,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-luna-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89525,7 +89525,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89544,7 +89544,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-luna": {
-   "asked": 130,
+   "asked": 133,
    "answered": 20,
    "by_domain": {
     "consumer": {
@@ -89552,7 +89552,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89571,7 +89571,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-sol-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89579,7 +89579,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89598,7 +89598,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-sol-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89606,7 +89606,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89625,7 +89625,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-sol-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89633,7 +89633,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89652,7 +89652,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-sol-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -89660,7 +89660,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -89679,7 +89679,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-sol": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -89687,7 +89687,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -89706,7 +89706,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-terra-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -89714,7 +89714,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -89733,7 +89733,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-terra-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89741,7 +89741,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89760,7 +89760,7 @@
    "last_call_ok": null
   },
   "gpt-5.6-terra-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -89768,7 +89768,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -89787,7 +89787,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-terra-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89795,7 +89795,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89814,7 +89814,7 @@
    "last_call_ok": true
   },
   "gpt-5.6-terra": {
-   "asked": 130,
+   "asked": 133,
    "answered": 20,
    "by_domain": {
     "consumer": {
@@ -89822,7 +89822,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89841,7 +89841,7 @@
    "last_call_ok": true
   },
   "grok-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -89849,7 +89849,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -89868,7 +89868,7 @@
    "last_call_ok": true
   },
   "grok-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89876,7 +89876,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -89895,7 +89895,7 @@
    "last_call_ok": null
   },
   "grok-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 14,
    "by_domain": {
     "consumer": {
@@ -89903,7 +89903,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -89922,7 +89922,7 @@
    "last_call_ok": true
   },
   "grok-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -89930,7 +89930,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89949,7 +89949,7 @@
    "last_call_ok": true
   },
   "grok": {
-   "asked": 130,
+   "asked": 133,
    "answered": 20,
    "by_domain": {
     "consumer": {
@@ -89957,7 +89957,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -89976,7 +89976,7 @@
    "last_call_ok": true
   },
   "h2oai-superagent": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -89984,7 +89984,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90003,7 +90003,7 @@
    "last_call_ok": null
   },
   "just4test": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -90011,7 +90011,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90041,7 +90041,7 @@
    "last_call_ok": false
   },
   "kimi-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 13,
    "by_domain": {
     "consumer": {
@@ -90049,7 +90049,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -90068,7 +90068,7 @@
    "last_call_ok": true
   },
   "kimi": {
-   "asked": 130,
+   "asked": 133,
    "answered": 13,
    "by_domain": {
     "consumer": {
@@ -90076,7 +90076,7 @@
      "answered": 2
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 7
     },
     "elections": {
@@ -90095,16 +90095,16 @@
    "last_call_ok": true
   },
   "persistence": {
-   "asked": 130,
-   "answered": 130,
+   "asked": 133,
+   "answered": 133,
    "by_domain": {
     "consumer": {
      "asked": 40,
      "answered": 40
     },
     "public-opinion": {
-     "asked": 62,
-     "answered": 62
+     "asked": 65,
+     "answered": 65
     },
     "elections": {
      "asked": 6,
@@ -90122,7 +90122,7 @@
    "last_call_ok": null
   },
   "qwen-3.7-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -90130,7 +90130,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90149,7 +90149,7 @@
    "last_call_ok": null
   },
   "qwen-3.7-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -90157,7 +90157,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90176,7 +90176,7 @@
    "last_call_ok": null
   },
   "qwen-3.7-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -90184,7 +90184,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90203,7 +90203,7 @@
    "last_call_ok": null
   },
   "qwen-3.7-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -90211,7 +90211,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -90230,7 +90230,7 @@
    "last_call_ok": null
   },
   "qwen-3.7": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -90238,7 +90238,7 @@
      "answered": 3
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -90257,7 +90257,7 @@
    "last_call_ok": null
   },
   "qwen-3.8-news": {
-   "asked": 130,
+   "asked": 133,
    "answered": 5,
    "by_domain": {
     "consumer": {
@@ -90265,7 +90265,7 @@
      "answered": 1
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 2
     },
     "elections": {
@@ -90284,7 +90284,7 @@
    "last_call_ok": true
   },
   "qwen-3.8-persona": {
-   "asked": 130,
+   "asked": 133,
    "answered": 0,
    "by_domain": {
     "consumer": {
@@ -90292,7 +90292,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 0
     },
     "elections": {
@@ -90311,7 +90311,7 @@
    "last_call_ok": null
   },
   "qwen-3.8-superfc": {
-   "asked": 130,
+   "asked": 133,
    "answered": 8,
    "by_domain": {
     "consumer": {
@@ -90319,7 +90319,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 6
     },
     "elections": {
@@ -90338,7 +90338,7 @@
    "last_call_ok": true
   },
   "qwen-3.8-zeroshot": {
-   "asked": 130,
+   "asked": 133,
    "answered": 19,
    "by_domain": {
     "consumer": {
@@ -90346,7 +90346,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -90365,7 +90365,7 @@
    "last_call_ok": true
   },
   "qwen-3.8": {
-   "asked": 130,
+   "asked": 133,
    "answered": 20,
    "by_domain": {
     "consumer": {
@@ -90373,7 +90373,7 @@
      "answered": 4
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 10
     },
     "elections": {
@@ -90392,7 +90392,7 @@
    "last_call_ok": true
   },
   "ssa-testing-team": {
-   "asked": 130,
+   "asked": 133,
    "answered": 1,
    "by_domain": {
     "consumer": {
@@ -90400,7 +90400,7 @@
      "answered": 0
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 1
     },
     "elections": {
@@ -90419,7 +90419,7 @@
    "last_call_ok": null
   },
   "test-jay": {
-   "asked": 130,
+   "asked": 133,
    "answered": 18,
    "by_domain": {
     "consumer": {
@@ -90427,7 +90427,7 @@
      "answered": 6
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 9
     },
     "elections": {
@@ -90446,16 +90446,16 @@
    "last_call_ok": true
   },
   "trend": {
-   "asked": 130,
-   "answered": 99,
+   "asked": 133,
+   "answered": 101,
    "by_domain": {
     "consumer": {
      "asked": 40,
      "answered": 40
     },
     "public-opinion": {
-     "asked": 62,
-     "answered": 49
+     "asked": 65,
+     "answered": 51
     },
     "elections": {
      "asked": 6,
@@ -90473,7 +90473,7 @@
    "last_call_ok": null
   },
   "worldvac-base": {
-   "asked": 130,
+   "asked": 133,
    "answered": 18,
    "by_domain": {
     "consumer": {
@@ -90481,7 +90481,7 @@
      "answered": 6
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 9
     },
     "elections": {
@@ -90511,7 +90511,7 @@
    "last_call_ok": true
   },
   "zhengzheng-agent": {
-   "asked": 130,
+   "asked": 133,
    "answered": 11,
    "by_domain": {
     "consumer": {
@@ -90519,7 +90519,7 @@
      "answered": 6
     },
     "public-opinion": {
-     "asked": 62,
+     "asked": 65,
      "answered": 3
     },
     "elections": {
@@ -90542,8 +90542,8 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-25T11:37:50Z",
-   "sha256": "8d927cf2f3cccbfc5d51efd0d2807e0af64756b2fbbfed9f2469d0ab677c1d4f",
+   "fetched_at": "2026-10-25T16:29:12Z",
+   "sha256": "97a3a8140cf48edd78618ae62d2d9163ab8e20eff23d5faa74654b52c42b3d4d",
    "bytes": 1740509,
    "file": "sources/sb_approval/2026-10-25.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
@@ -90551,8 +90551,8 @@
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-25T11:37:50Z",
-   "sha256": "5a09f247bfcf113e6b4482993759f1d5867af60af3c0b499eb500499c70b6224",
+   "fetched_at": "2026-10-25T16:29:12Z",
+   "sha256": "5f7f707c4715e96a9abd3494bb7b473bb890b1f37b57578bcc1dc1ee4b4771c8",
    "bytes": 179481,
    "file": "sources/sb_generic/2026-10-25.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
@@ -90560,7 +90560,7 @@
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-25T11:37:51Z",
+   "fetched_at": "2026-10-25T16:29:13Z",
    "sha256": "ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f",
    "bytes": 14415,
    "file": "sources/umich/2026-10-25.json",
@@ -90569,9 +90569,9 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-25T11:37:51Z",
-   "sha256": "0a738c656a1439d785091ca9db40175932177b3712a9ef419480665140b0e9da",
-   "bytes": 46414,
+   "fetched_at": "2026-10-25T16:29:13Z",
+   "sha256": "5686812a792b1fee9cc67d844c05711ba398bf6739d824a1fc7e9c9566780f6f",
+   "bytes": 46280,
    "file": "sources/aaii/2026-10-25.html",
    "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-25; the full 1987-present .xls is OLE2 and unreadable without a dependency"
   },
@@ -95658,6 +95658,63 @@
    "action": "upgraded",
    "ok": false,
    "detail": "Success! Timestamp complete"
+  },
+  "yougov-2026-w44-rv-approval": {
+   "round_id": "yougov-2026-w44-rv-approval",
+   "manifest": true,
+   "manifest_file": "stamps/yougov-2026-w44-rv-approval.json",
+   "manifest_sha256": "061e39c38f9e1ccbf0e96fc2a90c3001c7709d869d52c51f2c13de5b22bae146",
+   "proof": true,
+   "proof_file": "stamps/yougov-2026-w44-rv-approval.json.ots",
+   "bitcoin_attested": false,
+   "lock_at": "2026-10-25T14:00:00Z",
+   "built_at": "2026-10-25T16:27:52Z",
+   "forecast_sha256": {
+    "climatology": "fcf38927798aed86cc67718791888c1e3601431036dd9588c25f5f246a68dd5c",
+    "ewma": "8759b5f1b0a7545f500da6244fa016061bbfa74ca2275660945dc988dcdd6b9d",
+    "persistence": "bb2002d416a567eddcac7fb093a16e727f26147a476eb1e67f0b527cb9c6e24a",
+    "trend": "1019abb930ceb25dd80831d2b3a895e36b0c91385a0cf1dd649a087e042256cf"
+   },
+   "action": "upgraded",
+   "ok": false,
+   "detail": "Failed! Timestamp not complete"
+  },
+  "yougov-2026-w44-strong-approval": {
+   "round_id": "yougov-2026-w44-strong-approval",
+   "manifest": true,
+   "manifest_file": "stamps/yougov-2026-w44-strong-approval.json",
+   "manifest_sha256": "4911e663175208766aee29d1966106c212397334ca4709aef36f79005a7afbfe",
+   "proof": true,
+   "proof_file": "stamps/yougov-2026-w44-strong-approval.json.ots",
+   "bitcoin_attested": false,
+   "lock_at": "2026-10-25T14:00:00Z",
+   "built_at": "2026-10-25T16:27:53Z",
+   "forecast_sha256": {
+    "climatology": "ca4a867f703f7816ea0e58d92c64f30e39d376ce006fe267b9f9eb7c9958a4d4",
+    "ewma": "a7a9a8061b17c7e31141d4216bc1fd7192daa4e9b6503c0f8b41a7852d339886",
+    "persistence": "3663a4a83ee970835f11a498821125717740420d838c0ddb16f0b5732a97aa87",
+    "trend": "30c372f9e9f455c60f80ca226ee5ad21a8a5c25d824b80bb619d13f98438eeb3"
+   },
+   "action": "upgraded",
+   "ok": false,
+   "detail": "Failed! Timestamp not complete"
+  },
+  "yougov-xtab-2026-w44": {
+   "round_id": "yougov-xtab-2026-w44",
+   "manifest": true,
+   "manifest_file": "stamps/yougov-xtab-2026-w44.json",
+   "manifest_sha256": "6a06f08a36998140c8dc85af1b7c09184db39d6d09bdf2b1df539c0f12e32dcd",
+   "proof": true,
+   "proof_file": "stamps/yougov-xtab-2026-w44.json.ots",
+   "bitcoin_attested": false,
+   "lock_at": "2026-10-25T14:00:00Z",
+   "built_at": "2026-10-25T16:27:55Z",
+   "forecast_sha256": {
+    "persistence": "e2adacc76aa9d6f72a3d34d82ab1dd93ee755be2937c7a2fa6baba89bf53d8ce"
+   },
+   "action": "upgraded",
+   "ok": false,
+   "detail": "Failed! Timestamp not complete"
   }
  },
  "source_health": [
@@ -95674,8 +95731,8 @@
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 30.5,
-   "changed_days": 34.5,
+   "fetched_days": 30.7,
+   "changed_days": 34.7,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -95684,176 +95741,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 30.5,
-     "changed_days": 31.5,
+     "fetched_days": 30.7,
+     "changed_days": 31.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 30.5,
-     "changed_days": 31.5,
+     "fetched_days": 30.7,
+     "changed_days": 31.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 29.5,
-     "changed_days": 30.5,
+     "fetched_days": 29.7,
+     "changed_days": 30.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 29.5,
-     "changed_days": 31.5,
+     "fetched_days": 29.7,
+     "changed_days": 31.7,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 29.5,
-     "changed_days": 32.5,
+     "fetched_days": 29.7,
+     "changed_days": 32.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 29.5,
-     "changed_days": 31.5,
+     "fetched_days": 29.7,
+     "changed_days": 31.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 29.5,
-     "changed_days": 31.5,
+     "fetched_days": 29.7,
+     "changed_days": 31.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 29.5,
-     "changed_days": 34.5,
+     "fetched_days": 29.7,
+     "changed_days": 34.7,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -95914,7 +95971,7 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": -0.0,
+   "fetched_days": 0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
@@ -95924,7 +95981,7 @@
   {
    "source": "sb_generic",
    "state": "ok",
-   "fetched_days": -0.0,
+   "fetched_days": 0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 10,
@@ -95935,7 +95992,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 1.8,
+   "changed_days": 2.0,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -95943,20 +96000,20 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-25T11:37:49Z",
+  "generated_at": "2026-10-25T16:29:12Z",
   "source_states": [
    {
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "https://www.aaii.com/sentimentsurvey/sent_results",
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-10-25.html sha256=0a738c656a1439d785091ca9db40175932177b3712a9ef419480665140b0e9da"
+     "sources/aaii/2026-10-25.html sha256=5686812a792b1fee9cc67d844c05711ba398bf6739d824a1fc7e9c9566780f6f"
     ],
     "alert": false,
     "source": "aaii",
@@ -95965,27 +96022,27 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-25T17:37:49Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_retry": "2026-10-25T22:29:12Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:civiqs",
     "estimated_spend": 0.0,
-    "required_action": "restore live access now or hold affected rounds before the deadline; the same-source archive is not a new release",
+    "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=30.5; changed_days=34.5; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=30.7; changed_days=34.7; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
     "source": "civiqs",
-    "state": "deadline_risk"
+    "state": "stale"
    },
    {
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:hhpoll",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96000,8 +96057,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.ranking:ranking_wikitop",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96016,14 +96073,14 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-25.csv sha256=8d927cf2f3cccbfc5d51efd0d2807e0af64756b2fbbfed9f2469d0ab677c1d4f"
+     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-10-25.csv sha256=97a3a8140cf48edd78618ae62d2d9163ab8e20eff23d5faa74654b52c42b3d4d"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -96033,14 +96090,14 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-25.csv sha256=5a09f247bfcf113e6b4482993759f1d5867af60af3c0b499eb500499c70b6224"
+     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
+     "sources/sb_generic/2026-10-25.csv sha256=5f7f707c4715e96a9abd3494bb7b473bb890b1f37b57578bcc1dc1ee4b4771c8"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -96050,8 +96107,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:sce",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96066,8 +96123,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:trends",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96082,8 +96139,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:trends_basket",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96098,13 +96155,13 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "http://www.sca.isr.umich.edu/files/tbmics.csv",
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=1.8; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=2.0; fetch_budget=3; change_budget=40",
      "sources/umich/2026-10-25.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
     ],
     "alert": false,
@@ -96115,8 +96172,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:umichparty",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96131,8 +96188,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:wikipedia",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96147,8 +96204,8 @@
     "attempts": 1,
     "last_error": null,
     "next_retry": null,
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_deadline": "2026-10-25T14:00:00Z",
+    "next_lock": "2026-10-28T14:00:00Z",
+    "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:yougov_xtab",
     "estimated_spend": 0.0,
     "required_action": "none",
@@ -96160,1454 +96217,13 @@
     "state": "healthy"
    }
   ],
-  "entrant_round_states": [
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable-zeroshot",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash-zeroshot",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro-zeroshot",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash-zeroshot",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm-zeroshot",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi-zeroshot",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-rv-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable-zeroshot",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash-zeroshot",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro-zeroshot",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash-zeroshot",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm-zeroshot",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi-zeroshot",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-2026-w44-strong-approval",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-fable-zeroshot",
-    "estimated_spend": 0.2355,
-    "evidence": [],
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-5-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-opus-zeroshot",
-    "estimated_spend": 0.11775,
-    "evidence": [],
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "claude-sonnet-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.anthropic.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-flash-zeroshot",
-    "estimated_spend": 0.002037,
-    "evidence": [],
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "deepseek-pro-zeroshot",
-    "estimated_spend": 0.010348,
-    "evidence": [],
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.deepseek.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-flash-zeroshot",
-    "estimated_spend": 0.011715,
-    "evidence": [],
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gemini-pro-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:generativelanguage.googleapis.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "glm-zeroshot",
-    "estimated_spend": 0.01041,
-    "evidence": [],
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-luna-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-sol-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "gpt-5.6-terra-zeroshot",
-    "estimated_spend": 0.046875,
-    "evidence": [],
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.openai.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "grok-zeroshot",
-    "estimated_spend": 0.07065,
-    "evidence": [],
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:api.x.ai",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "kimi-zeroshot",
-    "estimated_spend": 0.02355,
-    "evidence": [],
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.7-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   },
-   {
-    "alert": true,
-    "attempts": 1,
-    "entrant": "qwen-3.8-zeroshot",
-    "estimated_spend": 0.03024,
-    "evidence": [],
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "next_deadline": "2026-10-25T14:00:00Z",
-    "next_lock": "2026-10-25T14:00:00Z",
-    "next_retry": null,
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-    "round_id": "yougov-xtab-2026-w44",
-    "route": "direct:dashscope.aliyuncs.com",
-    "state": "terminal_failure"
-   }
-  ],
+  "entrant_round_states": [],
   "counts": {
    "sources": {
-    "deadline_risk": 1,
+    "deadline_risk": 0,
     "healthy": 12,
     "retryable_failure": 0,
-    "stale": 0,
+    "stale": 1,
     "unresolvable": 0
    },
    "entrant_rounds": {
@@ -97616,688 +96232,16 @@
     "retryable_failure": 0,
     "running": 0,
     "succeeded": 0,
-    "terminal_failure": 96
+    "terminal_failure": 0
    }
   },
   "alerts": [
    {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-fable",
-    "state": "terminal_failure",
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-fable-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-opus",
-    "state": "terminal_failure",
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-opus-5",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-opus-5-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-opus-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-sonnet",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/claude-sonnet-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/deepseek-flash",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/deepseek-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/deepseek-pro",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/deepseek-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gemini-flash",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gemini-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gemini-pro",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gemini-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/glm",
-    "state": "terminal_failure",
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/glm-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-luna",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-luna-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-sol",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-sol-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-terra",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/gpt-5.6-terra-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/grok",
-    "state": "terminal_failure",
-    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/grok-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/kimi",
-    "state": "terminal_failure",
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/kimi-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/qwen-3.7",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/qwen-3.7-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/qwen-3.8",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-rv-approval/qwen-3.8-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-fable",
-    "state": "terminal_failure",
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-fable-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-opus",
-    "state": "terminal_failure",
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-opus-5",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-opus-5-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-opus-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-sonnet",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/claude-sonnet-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/deepseek-flash",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/deepseek-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/deepseek-pro",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/deepseek-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gemini-flash",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gemini-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gemini-pro",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gemini-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/glm",
-    "state": "terminal_failure",
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/glm-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-luna",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-luna-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-sol",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-sol-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-terra",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/gpt-5.6-terra-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/grok",
-    "state": "terminal_failure",
-    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/grok-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/kimi",
-    "state": "terminal_failure",
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/kimi-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/qwen-3.7",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/qwen-3.7-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/qwen-3.8",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-2026-w44-strong-approval/qwen-3.8-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-fable",
-    "state": "terminal_failure",
-    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-fable-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-opus",
-    "state": "terminal_failure",
-    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-opus-5",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-opus-5-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-opus-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-sonnet",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/claude-sonnet-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/deepseek-flash",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/deepseek-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/deepseek-pro",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/deepseek-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gemini-flash",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gemini-flash-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gemini-pro",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gemini-pro-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/glm",
-    "state": "terminal_failure",
-    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/glm-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-luna",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-luna-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-sol",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-sol-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-terra",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/gpt-5.6-terra-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/grok",
-    "state": "terminal_failure",
-    "last_error": "grok: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/grok-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/kimi",
-    "state": "terminal_failure",
-    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/kimi-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/qwen-3.7",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/qwen-3.7-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/qwen-3.8",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
-    "kind": "entrant_round",
-    "id": "yougov-xtab-2026-w44/qwen-3.8-zeroshot",
-    "state": "terminal_failure",
-    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. A profile round is never mocked, so there is nothing to file until the key is set.",
-    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
-   },
-   {
     "kind": "source",
     "id": "civiqs",
-    "state": "deadline_risk",
+    "state": "stale",
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "required_action": "restore live access now or hold affected rounds before the deadline; the same-source archive is not a new release"
+    "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release"
    }
   ]
  },
