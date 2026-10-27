@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:08:52Z",
+ "generated_at": "2026-10-27T22:19:49Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
@@ -47117,7 +47117,7 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 7.14,
      "sd": 1.17
@@ -47153,7 +47153,7 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 8.18,
      "sd": 1.0
@@ -47243,7 +47243,7 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 8.25,
      "sd": 1.5
@@ -47273,7 +47273,7 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 9.02,
      "sd": 1.51
@@ -49981,25 +49981,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 29.3,
      "sd": 1.0
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 29.67,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 29.6,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 29.69,
      "sd": 1.47
@@ -50050,25 +50050,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -22.38,
      "sd": 2.08
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -25.67,
      "sd": 1.09
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -25.3,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -27.78,
      "sd": 2.76
@@ -50119,25 +50119,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -36.83,
      "sd": 2.87
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -40.5,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -42.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -44.15,
      "sd": 2.11
@@ -50188,25 +50188,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -32.88,
      "sd": 1.83
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -35.94,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -38.2,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -39.04,
      "sd": 3.68
@@ -50257,25 +50257,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -29.84,
      "sd": 1.19
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -31.33,
      "sd": 1.0
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -32.4,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": -32.61,
      "sd": 1.47
@@ -50326,25 +50326,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 56.57,
      "sd": 2.54
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 58.87,
      "sd": 1.27
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 57.8,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 58.36,
      "sd": 2.92
@@ -50386,6 +50386,7 @@
     "civiqs_net_approval_female"
    ],
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": null,
    "scoreable": true,
    "profile": {
@@ -50426,23 +50427,24 @@
      "civiqs_net_approval_female": "Civiqs Trump net approval, women"
     },
     "history_points": {
-     "civiqs_net_approval_dem": 88,
-     "civiqs_net_approval_ind": 88,
-     "civiqs_net_approval_rep": 88,
-     "civiqs_net_approval_age_18_34": 88,
-     "civiqs_net_approval_age_35_49": 88,
-     "civiqs_net_approval_age_50_64": 88,
-     "civiqs_net_approval_age_65_up": 88,
-     "civiqs_net_approval_race_white": 88,
-     "civiqs_net_approval_race_black": 88,
-     "civiqs_net_approval_race_hispanic": 88,
-     "civiqs_net_approval_race_other": 88,
-     "civiqs_net_approval_edu_noncollege": 88,
-     "civiqs_net_approval_edu_college": 88,
-     "civiqs_net_approval_edu_postgrad": 88,
-     "civiqs_net_approval_male": 88,
-     "civiqs_net_approval_female": 88
+     "civiqs_net_approval_dem": 60,
+     "civiqs_net_approval_ind": 60,
+     "civiqs_net_approval_rep": 60,
+     "civiqs_net_approval_age_18_34": 60,
+     "civiqs_net_approval_age_35_49": 60,
+     "civiqs_net_approval_age_50_64": 60,
+     "civiqs_net_approval_age_65_up": 60,
+     "civiqs_net_approval_race_white": 60,
+     "civiqs_net_approval_race_black": 60,
+     "civiqs_net_approval_race_hispanic": 60,
+     "civiqs_net_approval_race_other": 60,
+     "civiqs_net_approval_edu_noncollege": 60,
+     "civiqs_net_approval_edu_college": 60,
+     "civiqs_net_approval_edu_postgrad": 60,
+     "civiqs_net_approval_male": 60,
+     "civiqs_net_approval_female": 60
     },
+    "history_source": "window snapshot",
     "baselines": {
      "persistence": {
       "civiqs_net_approval_dem": {
@@ -50531,7 +50533,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -52116,25 +52118,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.53
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 38.54,
      "sd": 1.58
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 40.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 38.76,
      "sd": 3.37
@@ -52184,25 +52186,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 19.86,
      "sd": 1.95
     },
     "ewma": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 20.68,
      "sd": 2.0
     },
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 22.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "number",
      "mean": 21.11,
      "sd": 3.79
@@ -52389,7 +52391,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-27T18:07Z",
+     "filed": "2026-10-27T22:17Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -90641,8 +90643,8 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-27T18:08:52Z",
-   "sha256": "d93fa4f5c3e697edeeeedb5d45b4243d293c378f76e1889e7a9c26cbed409487",
+   "fetched_at": "2026-10-27T22:19:52Z",
+   "sha256": "79bb8da59dc0c3dfffdfabb4c55182cda27ff6084522d57105958e7e80410012",
    "bytes": 1752371,
    "file": "sources/sb_approval/2026-10-27.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
@@ -90650,8 +90652,8 @@
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-27T18:08:53Z",
-   "sha256": "096fee8508a65439298f06b23eeb9d0bab6859424f10ccb502f760030986cd45",
+   "fetched_at": "2026-10-27T22:19:53Z",
+   "sha256": "a0f487f9e47281f632771070ffa6618c7723d99091f4fc17dc9f447fd5ea02e3",
    "bytes": 181684,
    "file": "sources/sb_generic/2026-10-27.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
@@ -90659,7 +90661,7 @@
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-27T18:08:54Z",
+   "fetched_at": "2026-10-27T22:19:53Z",
    "sha256": "ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f",
    "bytes": 14415,
    "file": "sources/umich/2026-10-27.json",
@@ -90668,9 +90670,9 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-27T18:08:54Z",
-   "sha256": "13d08fd05273d181660919fa0a3760c43e9b39df4b3cdedfaee8af51468e86ff",
-   "bytes": 46123,
+   "fetched_at": "2026-10-27T22:19:53Z",
+   "sha256": "6df0f720f5efc5753743b174c3887cbae6b0c5a3f4d680948652a179dc4901d1",
+   "bytes": 46124,
    "file": "sources/aaii/2026-10-27.html",
    "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-27; the full 1987-present .xls is OLE2 and unreadable without a dependency"
   },
@@ -95830,8 +95832,8 @@
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 32.8,
-   "changed_days": 36.8,
+   "fetched_days": 32.9,
+   "changed_days": 36.9,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -95840,176 +95842,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 32.8,
-     "changed_days": 33.8,
+     "fetched_days": 32.9,
+     "changed_days": 33.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 32.8,
-     "changed_days": 33.8,
+     "fetched_days": 32.9,
+     "changed_days": 33.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 31.8,
-     "changed_days": 32.8,
+     "fetched_days": 31.9,
+     "changed_days": 32.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 31.8,
-     "changed_days": 33.8,
+     "fetched_days": 31.9,
+     "changed_days": 33.9,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 31.8,
-     "changed_days": 34.8,
+     "fetched_days": 31.9,
+     "changed_days": 34.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 31.8,
-     "changed_days": 33.8,
+     "fetched_days": 31.9,
+     "changed_days": 33.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 31.8,
-     "changed_days": 33.8,
+     "fetched_days": 31.9,
+     "changed_days": 33.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 31.8,
-     "changed_days": 36.8,
+     "fetched_days": 31.9,
+     "changed_days": 36.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -96070,7 +96072,7 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": 0.0,
+   "fetched_days": -0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
@@ -96091,7 +96093,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 4.0,
+   "changed_days": 4.2,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -96099,7 +96101,7 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-27T18:08:52Z",
+  "generated_at": "2026-10-27T22:19:49Z",
   "source_states": [
    {
     "attempts": 1,
@@ -96112,7 +96114,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-10-27.html sha256=13d08fd05273d181660919fa0a3760c43e9b39df4b3cdedfaee8af51468e86ff"
+     "sources/aaii/2026-10-27.html sha256=6df0f720f5efc5753743b174c3887cbae6b0c5a3f4d680948652a179dc4901d1"
     ],
     "alert": false,
     "source": "aaii",
@@ -96121,7 +96123,7 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-28T00:08:52Z",
+    "next_retry": "2026-10-28T04:19:49Z",
     "next_lock": "2026-10-28T14:00:00Z",
     "next_deadline": "2026-10-28T14:00:00Z",
     "route": "ssa.series:civiqs",
@@ -96129,7 +96131,7 @@
     "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=32.8; changed_days=36.8; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=32.9; changed_days=36.9; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
@@ -96178,8 +96180,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-27.csv sha256=d93fa4f5c3e697edeeeedb5d45b4243d293c378f76e1889e7a9c26cbed409487"
+     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-10-27.csv sha256=79bb8da59dc0c3dfffdfabb4c55182cda27ff6084522d57105958e7e80410012"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -96196,7 +96198,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-27.csv sha256=096fee8508a65439298f06b23eeb9d0bab6859424f10ccb502f760030986cd45"
+     "sources/sb_generic/2026-10-27.csv sha256=a0f487f9e47281f632771070ffa6618c7723d99091f4fc17dc9f447fd5ea02e3"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -96260,7 +96262,7 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=4.0; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=4.2; fetch_budget=3; change_budget=40",
      "sources/umich/2026-10-27.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
     ],
     "alert": false,
@@ -98741,7 +98743,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.anthropic.com",
@@ -98786,7 +98788,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.anthropic.com",
@@ -98801,7 +98803,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.anthropic.com",
@@ -98831,7 +98833,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.anthropic.com",
@@ -98876,7 +98878,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.deepseek.com",
@@ -98891,7 +98893,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.deepseek.com",
@@ -98921,7 +98923,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:generativelanguage.googleapis.com",
@@ -98951,7 +98953,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:generativelanguage.googleapis.com",
@@ -98966,7 +98968,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -98981,7 +98983,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99011,7 +99013,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.openai.com",
@@ -99041,7 +99043,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.openai.com",
@@ -99071,7 +99073,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.openai.com",
@@ -99101,7 +99103,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:api.x.ai",
@@ -99116,7 +99118,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99131,7 +99133,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99146,7 +99148,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99161,7 +99163,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99176,7 +99178,7 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
     "route": "direct:dashscope.aliyuncs.com",
@@ -99191,9 +99193,489 @@
     "last_error": "withheld by the per-run spend ceiling",
     "next_deadline": "2026-10-28T14:00:00Z",
     "next_lock": "2026-10-28T14:00:00Z",
-    "next_retry": "2026-10-28T00:07:08Z",
+    "next_retry": "2026-10-28T04:17:30Z",
     "required_action": "leave queued for the next refresh; nearest deadlines run first",
     "round_id": "civiqs-2026-w44-inflation-concern",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.x.ai",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:api.x.ai",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": true,
+    "attempts": 0,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "withheld by the per-run spend ceiling",
+    "next_deadline": "2026-10-28T22:00:00Z",
+    "next_lock": "2026-10-28T22:00:00Z",
+    "next_retry": "2026-10-28T04:17:30Z",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first",
+    "round_id": "civiqs-profile-2026-w44",
     "route": "direct:dashscope.aliyuncs.com",
     "state": "queued"
    }
@@ -99208,7 +99690,7 @@
    },
    "entrant_rounds": {
     "missed_lock": 0,
-    "queued": 20,
+    "queued": 52,
     "retryable_failure": 0,
     "running": 0,
     "succeeded": 0,
@@ -100556,6 +101038,230 @@
    {
     "kind": "entrant_round",
     "id": "civiqs-2026-w44-inflation-concern/qwen-3.8-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-fable",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-fable-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-opus",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-opus-5",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-opus-5-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-opus-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-sonnet",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/claude-sonnet-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/deepseek-flash",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/deepseek-flash-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/deepseek-pro",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/deepseek-pro-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gemini-flash",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gemini-flash-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gemini-pro",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gemini-pro-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/glm",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/glm-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-luna",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-luna-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-sol",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-sol-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-terra",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/gpt-5.6-terra-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/grok",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/grok-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/kimi",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/kimi-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/qwen-3.7",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/qwen-3.7-zeroshot",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/qwen-3.8",
+    "state": "queued",
+    "last_error": "withheld by the per-run spend ceiling",
+    "required_action": "leave queued for the next refresh; nearest deadlines run first"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "civiqs-profile-2026-w44/qwen-3.8-zeroshot",
     "state": "queued",
     "last_error": "withheld by the per-run spend ceiling",
     "required_action": "leave queued for the next refresh; nearest deadlines run first"
