@@ -1,23 +1,23 @@
 {
- "generated_at": "2026-10-29T13:09:58Z",
+ "generated_at": "2026-10-29T22:50:06Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
    "label": "Trump approval, adjusted average",
    "unit": "% approve",
-   "value": 38.7,
+   "value": 38.6,
    "asof": "2026-10-25",
-   "delta_30d": -0.3,
-   "n_polls_window": 44,
+   "delta_30d": -0.4,
+   "n_polls_window": 48,
    "source": "Silver Bulletin poll database, house-effect adjusted here, 21-day window"
   },
   "generic_ballot_avg": {
    "label": "2026 generic ballot, adjusted average",
    "unit": "margin, Dem minus Rep",
-   "value": 8.2,
+   "value": 8.3,
    "asof": "2026-10-25",
-   "delta_30d": -0.0,
-   "n_polls_window": 32,
+   "delta_30d": 0.0,
+   "n_polls_window": 36,
    "source": "Silver Bulletin poll database, house-effect adjusted here, 21-day window"
   },
   "yougov_approval": {
@@ -47043,6 +47043,7 @@
    "batch_id": "batch-2026-10-26",
    "domain": "elections",
    "status": "open",
+   "history_source": "window snapshot",
    "baselines": {
     "persistence": {
      "mean": 8.21,
@@ -47117,7 +47118,7 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 7.12,
      "sd": 1.12
@@ -47153,7 +47154,7 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 8.13,
      "sd": 1.0
@@ -47243,7 +47244,7 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 8.21,
      "sd": 1.5
@@ -47273,7 +47274,7 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 8.85,
      "sd": 1.49
@@ -47297,6 +47298,7 @@
    "batch_id": "batch-2026-10-26",
    "domain": "elections",
    "status": "open",
+   "history_source": "date filter (pre-snapshot round)",
    "baselines": null,
    "scoreable": false,
    "baseline_note": "no machine-readable series for this tracker: forecasts are collected and hashed, but cannot be scored, because skill is measured against a persistence baseline this round has none of",
@@ -52170,25 +52172,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 38.92,
      "sd": 1.47
     },
     "ewma": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 38.72,
      "sd": 1.67
     },
     "persistence": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 39.35,
      "sd": 3.08
@@ -52238,25 +52240,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 20.12,
      "sd": 1.96
     },
     "ewma": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 21.21,
      "sd": 1.71
     },
     "persistence": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 22.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "number",
      "mean": 21.74,
      "sd": 3.33
@@ -52443,7 +52445,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-29T13:07Z",
+     "filed": "2026-10-29T22:47Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -83072,7 +83074,7 @@
    },
    {
     "date": "2025-06-15",
-    "value": 46.82
+    "value": 46.81
    },
    {
     "date": "2025-06-22",
@@ -83096,11 +83098,11 @@
    },
    {
     "date": "2025-07-27",
-    "value": 44.73
+    "value": 44.74
    },
    {
     "date": "2025-08-03",
-    "value": 44.88
+    "value": 44.89
    },
    {
     "date": "2025-08-10",
@@ -83108,7 +83110,7 @@
    },
    {
     "date": "2025-08-17",
-    "value": 45.09
+    "value": 45.08
    },
    {
     "date": "2025-08-24",
@@ -83116,15 +83118,15 @@
    },
    {
     "date": "2025-08-31",
-    "value": 44.95
+    "value": 44.97
    },
    {
     "date": "2025-09-07",
-    "value": 45.05
+    "value": 45.06
    },
    {
     "date": "2025-09-14",
-    "value": 45.19
+    "value": 45.2
    },
    {
     "date": "2025-09-21",
@@ -83132,31 +83134,31 @@
    },
    {
     "date": "2025-09-28",
-    "value": 44.83
+    "value": 44.86
    },
    {
     "date": "2025-10-05",
-    "value": 44.8
+    "value": 44.82
    },
    {
     "date": "2025-10-12",
-    "value": 45.05
+    "value": 45.06
    },
    {
     "date": "2025-10-19",
-    "value": 45.04
+    "value": 45.03
    },
    {
     "date": "2025-10-26",
-    "value": 44.27
+    "value": 44.29
    },
    {
     "date": "2025-11-02",
-    "value": 43.56
+    "value": 43.57
    },
    {
     "date": "2025-11-09",
-    "value": 42.69
+    "value": 42.7
    },
    {
     "date": "2025-11-16",
@@ -83172,11 +83174,11 @@
    },
    {
     "date": "2025-12-07",
-    "value": 43.3
+    "value": 43.28
    },
    {
     "date": "2025-12-14",
-    "value": 43.51
+    "value": 43.5
    },
    {
     "date": "2025-12-21",
@@ -83184,7 +83186,7 @@
    },
    {
     "date": "2025-12-28",
-    "value": 43.34
+    "value": 43.33
    },
    {
     "date": "2026-01-04",
@@ -83196,7 +83198,7 @@
    },
    {
     "date": "2026-01-18",
-    "value": 42.79
+    "value": 42.78
    },
    {
     "date": "2026-01-25",
@@ -83224,19 +83226,19 @@
    },
    {
     "date": "2026-03-08",
-    "value": 42.48
+    "value": 42.47
    },
    {
     "date": "2026-03-15",
-    "value": 41.75
+    "value": 41.77
    },
    {
     "date": "2026-03-22",
-    "value": 41.32
+    "value": 41.33
    },
    {
     "date": "2026-03-29",
-    "value": 40.75
+    "value": 40.76
    },
    {
     "date": "2026-04-05",
@@ -83248,11 +83250,11 @@
    },
    {
     "date": "2026-04-19",
-    "value": 40.55
+    "value": 40.57
    },
    {
     "date": "2026-04-26",
-    "value": 40.66
+    "value": 40.67
    },
    {
     "date": "2026-05-03",
@@ -83272,11 +83274,11 @@
    },
    {
     "date": "2026-05-31",
-    "value": 39.67
+    "value": 39.68
    },
    {
     "date": "2026-06-07",
-    "value": 39.6
+    "value": 39.59
    },
    {
     "date": "2026-06-14",
@@ -83300,11 +83302,11 @@
    },
    {
     "date": "2026-07-19",
-    "value": 40.4
+    "value": 40.38
    },
    {
     "date": "2026-07-26",
-    "value": 40.15
+    "value": 40.14
    },
    {
     "date": "2026-08-02",
@@ -83316,27 +83318,27 @@
    },
    {
     "date": "2026-08-16",
-    "value": 39.77
+    "value": 39.8
    },
    {
     "date": "2026-08-23",
-    "value": 39.54
+    "value": 39.56
    },
    {
     "date": "2026-08-30",
-    "value": 39.52
+    "value": 39.53
    },
    {
     "date": "2026-09-06",
-    "value": 39.43
+    "value": 39.44
    },
    {
     "date": "2026-09-13",
-    "value": 39.73
+    "value": 39.72
    },
    {
     "date": "2026-09-20",
-    "value": 38.87
+    "value": 38.86
    },
    {
     "date": "2026-09-27",
@@ -83352,17 +83354,17 @@
    },
    {
     "date": "2026-10-18",
-    "value": 38.55
+    "value": 38.63
    },
    {
     "date": "2026-10-25",
-    "value": 38.74
+    "value": 38.61
    }
   ],
   "generic_margin": [
    {
     "date": "2025-04-20",
-    "value": 2.27
+    "value": 2.28
    },
    {
     "date": "2025-04-27",
@@ -83394,7 +83396,7 @@
    },
    {
     "date": "2025-06-15",
-    "value": 1.29
+    "value": 1.3
    },
    {
     "date": "2025-06-22",
@@ -83418,15 +83420,15 @@
    },
    {
     "date": "2025-07-27",
-    "value": 3.05
+    "value": 3.06
    },
    {
     "date": "2025-08-03",
-    "value": 3.49
+    "value": 3.5
    },
    {
     "date": "2025-08-10",
-    "value": 2.81
+    "value": 2.82
    },
    {
     "date": "2025-08-17",
@@ -83442,11 +83444,11 @@
    },
    {
     "date": "2025-09-07",
-    "value": 2.88
+    "value": 2.89
    },
    {
     "date": "2025-09-14",
-    "value": 2.9
+    "value": 2.91
    },
    {
     "date": "2025-09-21",
@@ -83470,7 +83472,7 @@
    },
    {
     "date": "2025-10-26",
-    "value": 3.26
+    "value": 3.27
    },
    {
     "date": "2025-11-02",
@@ -83530,7 +83532,7 @@
    },
    {
     "date": "2026-02-08",
-    "value": 4.53
+    "value": 4.54
    },
    {
     "date": "2026-02-15",
@@ -83546,11 +83548,11 @@
    },
    {
     "date": "2026-03-08",
-    "value": 4.04
+    "value": 4.05
    },
    {
     "date": "2026-03-15",
-    "value": 4.82
+    "value": 4.83
    },
    {
     "date": "2026-03-22",
@@ -83566,7 +83568,7 @@
    },
    {
     "date": "2026-04-12",
-    "value": 5.3
+    "value": 5.31
    },
    {
     "date": "2026-04-19",
@@ -83574,11 +83576,11 @@
    },
    {
     "date": "2026-04-26",
-    "value": 4.69
+    "value": 4.7
    },
    {
     "date": "2026-05-03",
-    "value": 4.81
+    "value": 4.82
    },
    {
     "date": "2026-05-10",
@@ -83586,7 +83588,7 @@
    },
    {
     "date": "2026-05-17",
-    "value": 5.79
+    "value": 5.8
    },
    {
     "date": "2026-05-24",
@@ -83626,7 +83628,7 @@
    },
    {
     "date": "2026-07-26",
-    "value": 5.51
+    "value": 5.52
    },
    {
     "date": "2026-08-02",
@@ -83662,11 +83664,11 @@
    },
    {
     "date": "2026-09-27",
-    "value": 8.18
+    "value": 8.19
    },
    {
     "date": "2026-10-04",
-    "value": 8.16
+    "value": 8.17
    },
    {
     "date": "2026-10-11",
@@ -83674,11 +83676,11 @@
    },
    {
     "date": "2026-10-18",
-    "value": 8.32
+    "value": 8.29
    },
    {
     "date": "2026-10-25",
-    "value": 8.21
+    "value": 8.26
    }
   ],
   "umich_sentiment": [
@@ -85551,10 +85553,6 @@
   ],
   "rasmussen_approval": [
    {
-    "date": "2026-10-12",
-    "value": 43.0
-   },
-   {
     "date": "2026-10-14",
     "value": 43.0
    },
@@ -85580,6 +85578,10 @@
    },
    {
     "date": "2026-10-24",
+    "value": 41.0
+   },
+   {
+    "date": "2026-10-25",
     "value": 41.0
    }
   ],
@@ -87604,11 +87606,11 @@
    },
    {
     "date": "2026-10-18",
-    "value": 8.31
+    "value": 8.29
    },
    {
     "date": "2026-10-25",
-    "value": 8.21
+    "value": 8.26
    }
   ]
  },
@@ -90703,25 +90705,25 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-29T13:09:59Z",
-   "sha256": "21e4c07136e42d7db5bb8acaf2cdaa460c4926b4dd337629513dcae3a65133b6",
-   "bytes": 1759082,
+   "fetched_at": "2026-10-29T22:50:07Z",
+   "sha256": "1190426e3a3c9439a2398f7560f42b6735cbf45548a1968e5308b932fa7adc1f",
+   "bytes": 1763560,
    "file": "sources/sb_approval/2026-10-29.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
   },
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-29T13:09:59Z",
-   "sha256": "6585b69882a700d67232c40e2e5749c96533690d363d3966a28c663382b4f39c",
-   "bytes": 182909,
+   "fetched_at": "2026-10-29T22:50:07Z",
+   "sha256": "c6722053056243f3b469821d5b2d30535432e6a24a9d1d4e8654cb8c1369d226",
+   "bytes": 184272,
    "file": "sources/sb_generic/2026-10-29.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
   },
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-29T13:10:00Z",
+   "fetched_at": "2026-10-29T22:50:08Z",
    "sha256": "ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f",
    "bytes": 14415,
    "file": "sources/umich/2026-10-29.json",
@@ -90730,7 +90732,7 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-29T13:10:00Z",
+   "fetched_at": "2026-10-29T22:50:08Z",
    "sha256": "77a02a0b1b96381ac2c7ae1a4ea5427e80ebcbf5a689f71f2e9d91b3c5d12a5f",
    "bytes": 46280,
    "file": "sources/aaii/2026-10-29.html",
@@ -96029,8 +96031,8 @@
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 34.5,
-   "changed_days": 38.5,
+   "fetched_days": 35.0,
+   "changed_days": 39.0,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -96039,176 +96041,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 34.5,
-     "changed_days": 35.5,
+     "fetched_days": 35.0,
+     "changed_days": 36.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 34.5,
-     "changed_days": 35.5,
+     "fetched_days": 35.0,
+     "changed_days": 36.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 33.5,
-     "changed_days": 34.5,
+     "fetched_days": 34.0,
+     "changed_days": 35.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 33.5,
-     "changed_days": 35.5,
+     "fetched_days": 34.0,
+     "changed_days": 36.0,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 33.5,
-     "changed_days": 36.5,
+     "fetched_days": 34.0,
+     "changed_days": 37.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 33.5,
-     "changed_days": 35.5,
+     "fetched_days": 34.0,
+     "changed_days": 36.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 33.5,
-     "changed_days": 35.5,
+     "fetched_days": 34.0,
+     "changed_days": 36.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 33.5,
-     "changed_days": 38.5,
+     "fetched_days": 34.0,
+     "changed_days": 39.0,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -96290,7 +96292,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 5.8,
+   "changed_days": 6.2,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -96298,7 +96300,7 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-29T13:09:58Z",
+  "generated_at": "2026-10-29T22:50:06Z",
   "source_states": [
    {
     "attempts": 1,
@@ -96320,7 +96322,7 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-29T19:09:58Z",
+    "next_retry": "2026-10-30T04:50:06Z",
     "next_lock": "2026-10-30T22:00:00Z",
     "next_deadline": "2026-10-30T22:00:00Z",
     "route": "ssa.series:civiqs",
@@ -96328,7 +96330,7 @@
     "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=34.5; changed_days=38.5; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=35.0; changed_days=39.0; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
@@ -96378,7 +96380,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-29.csv sha256=21e4c07136e42d7db5bb8acaf2cdaa460c4926b4dd337629513dcae3a65133b6"
+     "sources/sb_approval/2026-10-29.csv sha256=1190426e3a3c9439a2398f7560f42b6735cbf45548a1968e5308b932fa7adc1f"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -96395,7 +96397,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-29.csv sha256=6585b69882a700d67232c40e2e5749c96533690d363d3966a28c663382b4f39c"
+     "sources/sb_generic/2026-10-29.csv sha256=c6722053056243f3b469821d5b2d30535432e6a24a9d1d4e8654cb8c1369d226"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -96459,7 +96461,7 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=5.8; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=6.2; fetch_budget=3; change_budget=40",
      "sources/umich/2026-10-29.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
     ],
     "alert": false,
@@ -96515,7 +96517,968 @@
     "state": "healthy"
    }
   ],
-  "entrant_round_states": [],
+  "entrant_round_states": [
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.2355,
+    "evidence": [],
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.11775,
+    "evidence": [],
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.anthropic.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.002037,
+    "evidence": [],
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.010348,
+    "evidence": [],
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.deepseek.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.011715,
+    "evidence": [],
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.01041,
+    "evidence": [],
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.046875,
+    "evidence": [],
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.openai.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.07065,
+    "evidence": [],
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:api.x.ai",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.02355,
+    "evidence": [],
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": true,
+    "attempts": 1,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.03024,
+    "evidence": [],
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": null,
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+    "round_id": "midterm-2026-house-margin",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "terminal_failure"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-fable",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-fable-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-opus",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-opus-5",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-opus-5-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-opus-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-sonnet",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "claude-sonnet-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.anthropic.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "deepseek-flash",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "deepseek-flash-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "deepseek-pro",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "deepseek-pro-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.deepseek.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gemini-flash",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gemini-flash-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gemini-pro",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gemini-pro-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:generativelanguage.googleapis.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "glm",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "glm-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-luna",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-luna-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-sol",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-sol-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-terra",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "gpt-5.6-terra-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.openai.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "grok",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.x.ai",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "grok-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:api.x.ai",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "kimi",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "kimi-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "qwen-3.7",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "qwen-3.7-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "qwen-3.8",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   },
+   {
+    "alert": false,
+    "attempts": 0,
+    "entrant": "qwen-3.8-zeroshot",
+    "estimated_spend": 0.0,
+    "evidence": [],
+    "last_error": null,
+    "next_deadline": "2026-10-30T22:00:00Z",
+    "next_lock": "2026-10-30T22:00:00Z",
+    "next_retry": "2026-10-30T04:47:30Z",
+    "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
+    "round_id": "midterm-2026-house-seats",
+    "route": "direct:dashscope.aliyuncs.com",
+    "state": "queued"
+   }
+  ],
   "counts": {
    "sources": {
     "deadline_risk": 0,
@@ -96526,14 +97489,238 @@
    },
    "entrant_rounds": {
     "missed_lock": 0,
-    "queued": 0,
+    "queued": 32,
     "retryable_failure": 0,
     "running": 0,
     "succeeded": 0,
-    "terminal_failure": 0
+    "terminal_failure": 32
    }
   },
   "alerts": [
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-fable",
+    "state": "terminal_failure",
+    "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-fable-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-opus",
+    "state": "terminal_failure",
+    "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-opus-5",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-opus-5-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-opus-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-sonnet",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/claude-sonnet-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/deepseek-flash",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/deepseek-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/deepseek-pro",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/deepseek-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gemini-flash",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gemini-flash-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gemini-pro",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gemini-pro-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/glm",
+    "state": "terminal_failure",
+    "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/glm-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-luna",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-luna-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-sol",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-sol-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-terra",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/gpt-5.6-terra-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/grok",
+    "state": "terminal_failure",
+    "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/grok-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/kimi",
+    "state": "terminal_failure",
+    "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/kimi-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/qwen-3.7",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/qwen-3.7-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/qwen-3.8",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
+   {
+    "kind": "entrant_round",
+    "id": "midterm-2026-house-margin/qwen-3.8-zeroshot",
+    "state": "terminal_failure",
+    "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+    "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock"
+   },
    {
     "kind": "source",
     "id": "civiqs",
