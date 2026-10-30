@@ -1,188 +1,6 @@
 {
   "alerts": [
     {
-      "id": "midterm-2026-house-margin/claude-fable",
-      "kind": "entrant_round",
-      "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-fable-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-opus",
-      "kind": "entrant_round",
-      "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-opus-5",
-      "kind": "entrant_round",
-      "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-opus-5-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-opus-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-sonnet",
-      "kind": "entrant_round",
-      "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/claude-sonnet-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/deepseek-flash",
-      "kind": "entrant_round",
-      "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/deepseek-flash-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/deepseek-pro",
-      "kind": "entrant_round",
-      "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/deepseek-pro-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gemini-flash",
-      "kind": "entrant_round",
-      "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gemini-flash-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gemini-pro",
-      "kind": "entrant_round",
-      "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gemini-pro-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/glm",
-      "kind": "entrant_round",
-      "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/glm-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-luna",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-luna-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-sol",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-sol-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-terra",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/gpt-5.6-terra-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/grok",
-      "kind": "entrant_round",
-      "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/grok-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
       "id": "midterm-2026-house-margin/kimi",
       "kind": "entrant_round",
       "last_error": "kimi: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
@@ -193,34 +11,6 @@
       "id": "midterm-2026-house-margin/kimi-zeroshot",
       "kind": "entrant_round",
       "last_error": "kimi-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/qwen-3.7",
-      "kind": "entrant_round",
-      "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/qwen-3.7-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/qwen-3.8",
-      "kind": "entrant_round",
-      "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
-      "state": "terminal_failure"
-    },
-    {
-      "id": "midterm-2026-house-margin/qwen-3.8-zeroshot",
-      "kind": "entrant_round",
-      "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
       "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
       "state": "terminal_failure"
     },
@@ -238,8 +28,8 @@
       "queued": 32,
       "retryable_failure": 0,
       "running": 0,
-      "succeeded": 0,
-      "terminal_failure": 32
+      "succeeded": 30,
+      "terminal_failure": 2
     },
     "sources": {
       "deadline_risk": 0,
@@ -251,394 +41,446 @@
   },
   "entrant_round_states": [
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-fable",
-      "estimated_spend": 0.2355,
-      "evidence": [],
-      "last_error": "claude-fable: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-fable.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-fable-zeroshot",
-      "estimated_spend": 0.2355,
-      "evidence": [],
-      "last_error": "claude-fable-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-fable-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-opus",
-      "estimated_spend": 0.11775,
-      "evidence": [],
-      "last_error": "claude-opus: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-opus.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-opus-5",
-      "estimated_spend": 0.11775,
-      "evidence": [],
-      "last_error": "claude-opus-5: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-opus-5.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-opus-5-zeroshot",
-      "estimated_spend": 0.11775,
-      "evidence": [],
-      "last_error": "claude-opus-5-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-opus-5-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-opus-zeroshot",
-      "estimated_spend": 0.11775,
-      "evidence": [],
-      "last_error": "claude-opus-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-opus-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-sonnet",
-      "estimated_spend": 0.07065,
-      "evidence": [],
-      "last_error": "claude-sonnet: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-sonnet.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "claude-sonnet-zeroshot",
-      "estimated_spend": 0.07065,
-      "evidence": [],
-      "last_error": "claude-sonnet-zeroshot: no ANTHROPIC_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/claude-sonnet-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.anthropic.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "deepseek-flash",
-      "estimated_spend": 0.002037,
-      "evidence": [],
-      "last_error": "deepseek-flash: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/deepseek-flash.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.deepseek.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "deepseek-flash-zeroshot",
-      "estimated_spend": 0.002037,
-      "evidence": [],
-      "last_error": "deepseek-flash-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/deepseek-flash-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.deepseek.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "deepseek-pro",
-      "estimated_spend": 0.010348,
-      "evidence": [],
-      "last_error": "deepseek-pro: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/deepseek-pro.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.deepseek.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "deepseek-pro-zeroshot",
-      "estimated_spend": 0.010348,
-      "evidence": [],
-      "last_error": "deepseek-pro-zeroshot: no DEEPSEEK_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/deepseek-pro-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.deepseek.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gemini-flash",
-      "estimated_spend": 0.011715,
-      "evidence": [],
-      "last_error": "gemini-flash: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gemini-flash.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:generativelanguage.googleapis.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gemini-flash-zeroshot",
-      "estimated_spend": 0.011715,
-      "evidence": [],
-      "last_error": "gemini-flash-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gemini-flash-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:generativelanguage.googleapis.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gemini-pro",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gemini-pro: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gemini-pro.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:generativelanguage.googleapis.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gemini-pro-zeroshot",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gemini-pro-zeroshot: no GOOGLE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gemini-pro-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:generativelanguage.googleapis.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "glm",
-      "estimated_spend": 0.01041,
-      "evidence": [],
-      "last_error": "glm: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/glm.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "glm-zeroshot",
-      "estimated_spend": 0.01041,
-      "evidence": [],
-      "last_error": "glm-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/glm-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-luna",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-luna: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-luna.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-luna-zeroshot",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-luna-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-luna-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-sol",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-sol: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-sol.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-sol-zeroshot",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-sol-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-sol-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-terra",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-terra: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-terra.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "gpt-5.6-terra-zeroshot",
-      "estimated_spend": 0.046875,
-      "evidence": [],
-      "last_error": "gpt-5.6-terra-zeroshot: no OPENAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/gpt-5.6-terra-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.openai.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "grok",
-      "estimated_spend": 0.07065,
-      "evidence": [],
-      "last_error": "grok: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/grok.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.x.ai",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "grok-zeroshot",
-      "estimated_spend": 0.07065,
-      "evidence": [],
-      "last_error": "grok-zeroshot: no XAI_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/grok-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:api.x.ai",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
       "alert": true,
@@ -671,64 +513,72 @@
       "state": "terminal_failure"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "qwen-3.7",
-      "estimated_spend": 0.03024,
-      "evidence": [],
-      "last_error": "qwen-3.7: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/qwen-3.7.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "qwen-3.7-zeroshot",
-      "estimated_spend": 0.03024,
-      "evidence": [],
-      "last_error": "qwen-3.7-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/qwen-3.7-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "qwen-3.8",
-      "estimated_spend": 0.03024,
-      "evidence": [],
-      "last_error": "qwen-3.8: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/qwen-3.8.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
-      "alert": true,
-      "attempts": 1,
+      "alert": false,
+      "attempts": 0,
       "entrant": "qwen-3.8-zeroshot",
-      "estimated_spend": 0.03024,
-      "evidence": [],
-      "last_error": "qwen-3.8-zeroshot: no DASHSCOPE_API_KEY in the environment. Set the key, or set SSA_ALLOW_MOCK=1 to file a labelled placeholder instead.",
+      "estimated_spend": 0.0,
+      "evidence": [
+        "forecast=forecasts/midterm-2026-house-margin/qwen-3.8-zeroshot.json"
+      ],
+      "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
       "next_retry": null,
-      "required_action": "repair credentials/route, then retry before the deadline; do not create a scored mock",
+      "required_action": "none",
       "round_id": "midterm-2026-house-margin",
       "route": "direct:dashscope.aliyuncs.com",
-      "state": "terminal_failure"
+      "state": "succeeded"
     },
     {
       "alert": false,
@@ -739,7 +589,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -754,7 +604,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -769,7 +619,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -784,7 +634,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -799,7 +649,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -814,7 +664,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -829,7 +679,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -844,7 +694,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.anthropic.com",
@@ -859,7 +709,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.deepseek.com",
@@ -874,7 +724,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.deepseek.com",
@@ -889,7 +739,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.deepseek.com",
@@ -904,7 +754,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.deepseek.com",
@@ -919,7 +769,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:generativelanguage.googleapis.com",
@@ -934,7 +784,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:generativelanguage.googleapis.com",
@@ -949,7 +799,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:generativelanguage.googleapis.com",
@@ -964,7 +814,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:generativelanguage.googleapis.com",
@@ -979,7 +829,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -994,7 +844,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1009,7 +859,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1024,7 +874,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1039,7 +889,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1054,7 +904,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1069,7 +919,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1084,7 +934,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.openai.com",
@@ -1099,7 +949,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.x.ai",
@@ -1114,7 +964,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:api.x.ai",
@@ -1129,7 +979,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1144,7 +994,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1159,7 +1009,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1174,7 +1024,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1189,7 +1039,7 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
@@ -1204,14 +1054,14 @@
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:53:34Z",
+      "next_retry": "2026-10-30T18:59:51Z",
       "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
       "round_id": "midterm-2026-house-seats",
       "route": "direct:dashscope.aliyuncs.com",
       "state": "queued"
     }
   ],
-  "generated_at": "2026-10-30T05:56:40Z",
+  "generated_at": "2026-10-30T13:01:32Z",
   "source_states": [
     {
       "alert": false,
@@ -1219,7 +1069,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-        "sources/aaii/2026-10-30.html sha256=77a02a0b1b96381ac2c7ae1a4ea5427e80ebcbf5a689f71f2e9d91b3c5d12a5f"
+        "sources/aaii/2026-10-30.html sha256=351c6221c92656c2870cdf6fa948090303bc965f4a2702557e8fa7522cbdeadc"
       ],
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
@@ -1236,13 +1086,13 @@
       "estimated_spend": 0.0,
       "evidence": [
         "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-        "fetched_days=35.2; changed_days=39.2; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+        "fetched_days=35.5; changed_days=39.5; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
         "live attempt failed; same-source archive used"
       ],
       "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
       "next_deadline": "2026-10-30T22:00:00Z",
       "next_lock": "2026-10-30T22:00:00Z",
-      "next_retry": "2026-10-30T11:56:40Z",
+      "next_retry": "2026-10-30T19:01:32Z",
       "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
       "route": "ssa.series:civiqs",
       "source": "civiqs",
@@ -1285,8 +1135,8 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-        "sources/sb_approval/2026-10-30.csv sha256=c50da8094ed55f9f16691eee090c04990fb3f1befadface19517f465a286c170"
+        "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+        "sources/sb_approval/2026-10-30.csv sha256=1db0ea4576036c98f80b409bc62e38a2e3def74375d2d8e718844492a27b3dc2"
       ],
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
@@ -1302,8 +1152,8 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-        "sources/sb_generic/2026-10-30.csv sha256=9d72104867f7bf01afbd4649cb2a1871497336735b675d135993a58385cbabe7"
+        "fetched_days=-0.0; changed_days=-0.0; fetch_budget=2; change_budget=10",
+        "sources/sb_generic/2026-10-30.csv sha256=8e01554849fda59bf4d57e9112cf46175b13f93a0d763f9580b987b08df8a9e0"
       ],
       "last_error": null,
       "next_deadline": "2026-10-30T22:00:00Z",
@@ -1367,7 +1217,7 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=-0.0; changed_days=6.5; fetch_budget=3; change_budget=40",
+        "fetched_days=-0.0; changed_days=6.8; fetch_budget=3; change_budget=40",
         "sources/umich/2026-10-30.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
       ],
       "last_error": null,
