@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:50:06Z",
+ "generated_at": "2026-10-30T05:56:40Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
@@ -47118,7 +47118,7 @@
      "sd": 2.0
     },
     "climatology": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 7.12,
      "sd": 1.12
@@ -47154,7 +47154,7 @@
      "sd": 0.8
     },
     "ewma": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 8.13,
      "sd": 1.0
@@ -47244,7 +47244,7 @@
      "sd": 1.2
     },
     "persistence": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 8.21,
      "sd": 1.5
@@ -47274,7 +47274,7 @@
      "sd": 1.8
     },
     "trend": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 8.85,
      "sd": 1.49
@@ -52172,25 +52172,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 38.92,
      "sd": 1.47
     },
     "ewma": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 38.72,
      "sd": 1.67
     },
     "persistence": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 39.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 39.35,
      "sd": 3.08
@@ -52240,25 +52240,25 @@
    "n_forecasts": 4,
    "forecasts": {
     "climatology": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 20.12,
      "sd": 1.96
     },
     "ewma": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 21.21,
      "sd": 1.71
     },
     "persistence": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 22.0,
      "sd": 1.5
     },
     "trend": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "number",
      "mean": 21.74,
      "sd": 3.33
@@ -52445,7 +52445,7 @@
    "n_forecasts": 1,
    "forecasts": {
     "persistence": {
-     "filed": "2026-10-29T22:47Z",
+     "filed": "2026-10-30T05:53Z",
      "shape": "profile",
      "cells_n": 16,
      "cells": {
@@ -90705,38 +90705,38 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-10-29T22:50:07Z",
-   "sha256": "1190426e3a3c9439a2398f7560f42b6735cbf45548a1968e5308b932fa7adc1f",
+   "fetched_at": "2026-10-30T05:56:40Z",
+   "sha256": "c50da8094ed55f9f16691eee090c04990fb3f1befadface19517f465a286c170",
    "bytes": 1763560,
-   "file": "sources/sb_approval/2026-10-29.csv",
+   "file": "sources/sb_approval/2026-10-30.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
   },
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-10-29T22:50:07Z",
-   "sha256": "c6722053056243f3b469821d5b2d30535432e6a24a9d1d4e8654cb8c1369d226",
+   "fetched_at": "2026-10-30T05:56:41Z",
+   "sha256": "9d72104867f7bf01afbd4649cb2a1871497336735b675d135993a58385cbabe7",
    "bytes": 184272,
-   "file": "sources/sb_generic/2026-10-29.csv",
+   "file": "sources/sb_generic/2026-10-30.csv",
    "note": "Silver Bulletin generic-ballot database, published as a Google Sheet"
   },
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-10-29T22:50:08Z",
+   "fetched_at": "2026-10-30T05:56:41Z",
    "sha256": "ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f",
    "bytes": 14415,
-   "file": "sources/umich/2026-10-29.json",
+   "file": "sources/umich/2026-10-30.json",
    "note": "Surveys of Consumers, University of Michigan (sca.isr.umich.edu): tbmics.csv for finals and tbcics.csv for the current preliminary, newest reading 2026-10-01; hash-covered canonical raw composite of http://www.sca.isr.umich.edu/files/tbmics.csv and http://www.sca.isr.umich.edu/files/tbcics.csv"
   },
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-10-29T22:50:08Z",
+   "fetched_at": "2026-10-30T05:56:42Z",
    "sha256": "77a02a0b1b96381ac2c7ae1a4ea5427e80ebcbf5a689f71f2e9d91b3c5d12a5f",
    "bytes": 46280,
-   "file": "sources/aaii/2026-10-29.html",
-   "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-29; the full 1987-present .xls is OLE2 and unreadable without a dependency"
+   "file": "sources/aaii/2026-10-30.html",
+   "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-10-30; the full 1987-present .xls is OLE2 and unreadable without a dependency"
   },
   "repo": "https://github.com/Social-Atoms/social-sim-arena"
  },
@@ -96026,13 +96026,13 @@
    "budget_fetch_days": 3,
    "budget_change_days": 12,
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "file": "sources/aaii/2026-10-29.html"
+   "file": "sources/aaii/2026-10-30.html"
   },
   {
    "source": "civiqs",
    "state": "failing",
-   "fetched_days": 35.0,
-   "changed_days": 39.0,
+   "fetched_days": 35.2,
+   "changed_days": 39.2,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -96041,176 +96041,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 35.0,
-     "changed_days": 36.0,
+     "fetched_days": 35.2,
+     "changed_days": 36.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 35.0,
-     "changed_days": 36.0,
+     "fetched_days": 35.2,
+     "changed_days": 36.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-25",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 34.0,
-     "changed_days": 35.0,
+     "fetched_days": 34.2,
+     "changed_days": 35.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-25"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 34.0,
-     "changed_days": 36.0,
+     "fetched_days": 34.2,
+     "changed_days": 36.2,
      "change_budget_days": 10,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 34.0,
-     "changed_days": 37.0,
+     "fetched_days": 34.2,
+     "changed_days": 37.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-23"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 34.0,
-     "changed_days": 36.0,
+     "fetched_days": 34.2,
+     "changed_days": 36.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 34.0,
-     "changed_days": 36.0,
+     "fetched_days": 34.2,
+     "changed_days": 36.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-24"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 34.0,
-     "changed_days": 39.0,
+     "fetched_days": 34.2,
+     "changed_days": 39.2,
      "change_budget_days": 4,
      "newest_snapshot": "2026-09-26",
      "newest_reading": "2026-09-21"
@@ -96271,12 +96271,12 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": -0.0,
+   "fetched_days": 0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "file": "sources/sb_approval/2026-10-29.csv"
+   "file": "sources/sb_approval/2026-10-30.csv"
   },
   {
    "source": "sb_generic",
@@ -96286,21 +96286,21 @@
    "budget_fetch_days": 2,
    "budget_change_days": 10,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "file": "sources/sb_generic/2026-10-29.csv"
+   "file": "sources/sb_generic/2026-10-30.csv"
   },
   {
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 6.2,
+   "changed_days": 6.5,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "file": "sources/umich/2026-10-29.json"
+   "file": "sources/umich/2026-10-30.json"
   }
  ],
  "operator_status": {
-  "generated_at": "2026-10-29T22:50:06Z",
+  "generated_at": "2026-10-30T05:56:40Z",
   "source_states": [
    {
     "attempts": 1,
@@ -96313,7 +96313,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-10-29.html sha256=77a02a0b1b96381ac2c7ae1a4ea5427e80ebcbf5a689f71f2e9d91b3c5d12a5f"
+     "sources/aaii/2026-10-30.html sha256=77a02a0b1b96381ac2c7ae1a4ea5427e80ebcbf5a689f71f2e9d91b3c5d12a5f"
     ],
     "alert": false,
     "source": "aaii",
@@ -96322,7 +96322,7 @@
    {
     "attempts": 1,
     "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-    "next_retry": "2026-10-30T04:50:06Z",
+    "next_retry": "2026-10-30T11:56:40Z",
     "next_lock": "2026-10-30T22:00:00Z",
     "next_deadline": "2026-10-30T22:00:00Z",
     "route": "ssa.series:civiqs",
@@ -96330,7 +96330,7 @@
     "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
      "civiqs/approve_president_trump_2025 (33 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.age-18-34 (30 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-35-49 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-50-64 (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.age-65_ (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Non-College_Graduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.education-Postgraduate (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Female (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.gender-Male (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Democrat (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Independent (31 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.party-Republican (34 snapshots; newest 2026-09-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Hispanic_Latino (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-Other (32 snapshots; newest 2026-09-26); civiqs/approve_president_trump_2025.race-White (30 snapshots; newest 2026-09-26); civiqs/describe_feeling_us (32 snapshots; newest 2026-09-26); civiqs/economy_family_retro (33 snapshots; newest 2026-09-26); civiqs/economy_us_direction (33 snapshots; newest 2026-09-26); civiqs/economy_us_now (33 snapshots; newest 2026-09-26); civiqs/inflation_impact (33 snapshots; newest 2026-09-26)",
-     "fetched_days=35.0; changed_days=39.0; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
+     "fetched_days=35.2; changed_days=39.2; fetch_budget=2; change_budget=4; stale_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact; failing_keys=approve_president_trump_2025,approve_president_trump_2025.age-18-34,approve_president_trump_2025.age-35-49,approve_president_trump_2025.age-50-64,approve_president_trump_2025.age-65_,approve_president_trump_2025.education-College_Graduate,approve_president_trump_2025.education-Non-College_Graduate,approve_president_trump_2025.education-Postgraduate,approve_president_trump_2025.gender-Female,approve_president_trump_2025.gender-Male,approve_president_trump_2025.party-Democrat,approve_president_trump_2025.party-Independent,approve_president_trump_2025.party-Republican,approve_president_trump_2025.race-Black_or_African-American,approve_president_trump_2025.race-Hispanic_Latino,approve_president_trump_2025.race-Other,approve_president_trump_2025.race-White,describe_feeling_us,economy_family_retro,economy_us_direction,economy_us_now,inflation_impact",
      "live attempt failed; same-source archive used"
     ],
     "alert": true,
@@ -96379,8 +96379,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-10-29.csv sha256=1190426e3a3c9439a2398f7560f42b6735cbf45548a1968e5308b932fa7adc1f"
+     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-10-30.csv sha256=c50da8094ed55f9f16691eee090c04990fb3f1befadface19517f465a286c170"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -96397,7 +96397,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=10",
-     "sources/sb_generic/2026-10-29.csv sha256=c6722053056243f3b469821d5b2d30535432e6a24a9d1d4e8654cb8c1369d226"
+     "sources/sb_generic/2026-10-30.csv sha256=9d72104867f7bf01afbd4649cb2a1871497336735b675d135993a58385cbabe7"
     ],
     "alert": false,
     "source": "sb_generic",
@@ -96461,8 +96461,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=6.2; fetch_budget=3; change_budget=40",
-     "sources/umich/2026-10-29.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
+     "fetched_days=-0.0; changed_days=6.5; fetch_budget=3; change_budget=40",
+     "sources/umich/2026-10-30.json sha256=ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f"
     ],
     "alert": false,
     "source": "umich",
@@ -97007,7 +97007,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97022,7 +97022,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97037,7 +97037,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97052,7 +97052,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97067,7 +97067,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97082,7 +97082,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97097,7 +97097,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97112,7 +97112,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.anthropic.com",
@@ -97127,7 +97127,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.deepseek.com",
@@ -97142,7 +97142,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.deepseek.com",
@@ -97157,7 +97157,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.deepseek.com",
@@ -97172,7 +97172,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.deepseek.com",
@@ -97187,7 +97187,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:generativelanguage.googleapis.com",
@@ -97202,7 +97202,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:generativelanguage.googleapis.com",
@@ -97217,7 +97217,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:generativelanguage.googleapis.com",
@@ -97232,7 +97232,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:generativelanguage.googleapis.com",
@@ -97247,7 +97247,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97262,7 +97262,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97277,7 +97277,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97292,7 +97292,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97307,7 +97307,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97322,7 +97322,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97337,7 +97337,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97352,7 +97352,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.openai.com",
@@ -97367,7 +97367,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.x.ai",
@@ -97382,7 +97382,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:api.x.ai",
@@ -97397,7 +97397,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97412,7 +97412,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97427,7 +97427,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97442,7 +97442,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97457,7 +97457,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
@@ -97472,7 +97472,7 @@
     "last_error": null,
     "next_deadline": "2026-10-30T22:00:00Z",
     "next_lock": "2026-10-30T22:00:00Z",
-    "next_retry": "2026-10-30T04:47:30Z",
+    "next_retry": "2026-10-30T11:53:34Z",
     "required_action": "hold until this round has a validated source and persistence baseline; no provider call made",
     "round_id": "midterm-2026-house-seats",
     "route": "direct:dashscope.aliyuncs.com",
