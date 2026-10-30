@@ -1,0 +1,9 @@
+{
+  "built_at": "2026-10-30T22:25:31Z",
+  "canonical": "json.dumps(obj, sort_keys=True, separators=(',',':')) utf-8, sha256",
+  "forecast_count": 0,
+  "forecasts": {},
+  "lock_at": "2026-10-30T22:00:00Z",
+  "lock_snapshot_sha256": "a4387a090dc026ac73f0452cea5f49a5dcea5db0bcdb6a944ed4cf836b972e3b",
+  "round_id": "midterm-2026-house-seats"
+}
