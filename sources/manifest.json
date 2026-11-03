@@ -1,35 +1,35 @@
 {
   "aaii": {
-    "bytes": 46280,
-    "changed_at": "2026-11-03T01:04:24Z",
-    "fetched_at": "2026-11-03T01:04:24Z",
+    "bytes": 46126,
+    "changed_at": "2026-11-03T14:23:20Z",
+    "fetched_at": "2026-11-03T14:23:20Z",
     "file": "sources/aaii/2026-11-03.html",
     "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-11-03; the full 1987-present .xls is OLE2 and unreadable without a dependency",
-    "sha256": "ff09580ea1212265a3e96837d6305ab4be8a72ba6d26c73a48f27410ec5c4b8b",
+    "sha256": "7e4a34da291c5024646a3f44e7a12bfcb0cba9191a03e4c535ccedb1ee2aff9c",
     "url": "https://www.aaii.com/sentimentsurvey/sent_results"
   },
   "sb_approval": {
-    "bytes": 1772575,
-    "changed_at": "2026-11-03T01:01:02Z",
-    "fetched_at": "2026-11-03T01:04:23Z",
+    "bytes": 1781342,
+    "changed_at": "2026-11-03T14:21:35Z",
+    "fetched_at": "2026-11-03T14:23:18Z",
     "file": "sources/sb_approval/2026-11-03.csv",
     "note": "Silver Bulletin poll database, published as a Google Sheet",
-    "sha256": "ddf9f0f6f41b279592cc394124f259723f5a10671d225ed19d3a18ffbe1af854",
+    "sha256": "d4ae5223cc89945981b35b24b0dce0066a86903c5807364a5c7a02540adbb5d4",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv"
   },
   "sb_generic": {
-    "bytes": 186218,
-    "changed_at": "2026-11-03T01:04:24Z",
-    "fetched_at": "2026-11-03T01:04:24Z",
+    "bytes": 188124,
+    "changed_at": "2026-11-03T14:21:36Z",
+    "fetched_at": "2026-11-03T14:23:19Z",
     "file": "sources/sb_generic/2026-11-03.csv",
     "note": "Silver Bulletin generic-ballot database, published as a Google Sheet",
-    "sha256": "748d49ad94f751fa2331dda3fc918ffefbbb86bbcb2e1538db5a4589c67f0a28",
+    "sha256": "f2487b385c1b077df8a2bc2ef0d498cd4be2660e314d5d69ec64c45c18292638",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv"
   },
   "umich": {
     "bytes": 14415,
     "changed_at": "2026-10-23T17:12:30Z",
-    "fetched_at": "2026-11-03T01:04:24Z",
+    "fetched_at": "2026-11-03T14:23:20Z",
     "file": "sources/umich/2026-11-03.json",
     "note": "Surveys of Consumers, University of Michigan (sca.isr.umich.edu): tbmics.csv for finals and tbcics.csv for the current preliminary, newest reading 2026-10-01; hash-covered canonical raw composite of http://www.sca.isr.umich.edu/files/tbmics.csv and http://www.sca.isr.umich.edu/files/tbcics.csv",
     "sha256": "ca0d0f8dcdff3adc786b9469e5a4325363ff7a8a1cfe12d751eeae3f4e05c22f",
