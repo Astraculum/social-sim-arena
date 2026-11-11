@@ -1,26 +1,26 @@
 {
   "aaii": {
-    "bytes": 45991,
-    "changed_at": "2026-11-11T06:32:34Z",
-    "fetched_at": "2026-11-11T06:32:34Z",
+    "bytes": 46124,
+    "changed_at": "2026-11-11T19:40:22Z",
+    "fetched_at": "2026-11-11T19:40:22Z",
     "file": "sources/aaii/2026-11-11.html",
     "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-11-11; the full 1987-present .xls is OLE2 and unreadable without a dependency",
-    "sha256": "a84db06aa837c8e7bf089fe781383955c98b020bc89f1cfeb735a810650ada8e",
+    "sha256": "c1dfd7ece67a155b46a889f2474657ca0ed74d032bc6f3b41d0ac1945bb3b63b",
     "url": "https://www.aaii.com/sentimentsurvey/sent_results"
   },
   "sb_approval": {
     "bytes": 1786926,
-    "changed_at": "2026-11-11T06:29:22Z",
-    "fetched_at": "2026-11-11T06:32:33Z",
+    "changed_at": "2026-11-11T19:38:42Z",
+    "fetched_at": "2026-11-11T19:40:21Z",
     "file": "sources/sb_approval/2026-11-11.csv",
     "note": "Silver Bulletin poll database, published as a Google Sheet",
-    "sha256": "99e634f90d15b63383ff166aa89f068ec775379041ce2723cdd68e7f9d329471",
+    "sha256": "032ef67c2cf5f4cb5f4aadb5ee88fec95ac12c08464b3fd9caab2e8d2e768db2",
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv"
   },
   "sb_generic": {
     "bytes": 188124,
     "changed_at": "2026-11-03T23:26:09Z",
-    "fetched_at": "2026-11-11T06:32:33Z",
+    "fetched_at": "2026-11-11T19:40:22Z",
     "file": "sources/sb_generic/2026-11-11.csv",
     "note": "Silver Bulletin generic-ballot database, published as a Google Sheet",
     "sha256": "5a0ff534563f708376cf8ad6f79d6ef199cf5d965427d25b30c9e2d8387dca9d",
@@ -29,7 +29,7 @@
   "umich": {
     "bytes": 14420,
     "changed_at": "2026-11-06T19:27:24Z",
-    "fetched_at": "2026-11-11T06:32:34Z",
+    "fetched_at": "2026-11-11T19:40:22Z",
     "file": "sources/umich/2026-11-11.json",
     "note": "Surveys of Consumers, University of Michigan (sca.isr.umich.edu): tbmics.csv for finals and tbcics.csv for the current preliminary, newest reading 2026-11-01; hash-covered canonical raw composite of http://www.sca.isr.umich.edu/files/tbmics.csv and http://www.sca.isr.umich.edu/files/tbcics.csv",
     "sha256": "553ca7c1f04bd9d8166c3a9d8af11a2d5d902adb276c27b1ae7a98c5ff43e122",
