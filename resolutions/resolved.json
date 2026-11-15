@@ -153,6 +153,216 @@
     "series": "civiqs_net_inflation_concern",
     "value": 57.8
   },
+  "civiqs-2026-w40-angry-share": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_angry_share",
+    "value": 29.0
+  },
+  "civiqs-2026-w40-approval": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_approval",
+    "value": -26.4
+  },
+  "civiqs-2026-w40-econ-direction": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_direction",
+    "value": -41.8
+  },
+  "civiqs-2026-w40-econ-now": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_now",
+    "value": -38.1
+  },
+  "civiqs-2026-w40-family-finances": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_family_finances",
+    "value": -33.7
+  },
+  "civiqs-2026-w40-inflation-concern": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-02",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_inflation_concern",
+    "value": 59.7
+  },
+  "civiqs-2026-w41-angry-share": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_angry_share",
+    "value": 29.0
+  },
+  "civiqs-2026-w41-approval": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_approval",
+    "value": -27.1
+  },
+  "civiqs-2026-w41-econ-direction": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_direction",
+    "value": -41.1
+  },
+  "civiqs-2026-w41-econ-now": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_now",
+    "value": -38.6
+  },
+  "civiqs-2026-w41-family-finances": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_family_finances",
+    "value": -34.4
+  },
+  "civiqs-2026-w41-inflation-concern": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-09",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_inflation_concern",
+    "value": 59.1
+  },
+  "civiqs-2026-w42-angry-share": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_angry_share",
+    "value": 28.8
+  },
+  "civiqs-2026-w42-approval": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_approval",
+    "value": -27.1
+  },
+  "civiqs-2026-w42-econ-direction": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_direction",
+    "value": -40.4
+  },
+  "civiqs-2026-w42-econ-now": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_now",
+    "value": -38.6
+  },
+  "civiqs-2026-w42-family-finances": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_family_finances",
+    "value": -34.3
+  },
+  "civiqs-2026-w42-inflation-concern": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-16",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_inflation_concern",
+    "value": 58.9
+  },
+  "civiqs-2026-w43-angry-share": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_angry_share",
+    "value": 28.5
+  },
+  "civiqs-2026-w43-approval": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_approval",
+    "value": -26.3
+  },
+  "civiqs-2026-w43-econ-direction": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_direction",
+    "value": -39.6
+  },
+  "civiqs-2026-w43-econ-now": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_now",
+    "value": -37.8
+  },
+  "civiqs-2026-w43-family-finances": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_family_finances",
+    "value": -34.1
+  },
+  "civiqs-2026-w43-inflation-concern": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-23",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_inflation_concern",
+    "value": 58.8
+  },
+  "civiqs-2026-w44-angry-share": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_angry_share",
+    "value": 27.8
+  },
+  "civiqs-2026-w44-approval": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_approval",
+    "value": -27.5
+  },
+  "civiqs-2026-w44-econ-direction": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_direction",
+    "value": -38.8
+  },
+  "civiqs-2026-w44-econ-now": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_econ_now",
+    "value": -37.1
+  },
+  "civiqs-2026-w44-family-finances": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_family_finances",
+    "value": -33.8
+  },
+  "civiqs-2026-w44-inflation-concern": {
+    "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
+    "observed_date": "2026-10-30",
+    "resolved_at": "2026-11-15T06:41:10Z",
+    "series": "civiqs_net_inflation_concern",
+    "value": 59.0
+  },
   "civiqs-age3549-2026-w36": {
     "method": "first point in the series after the pre-lock history, the same freeze the round's baselines used",
     "observed_date": "2026-09-04",
