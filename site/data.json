@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-16T06:38:09Z",
+ "generated_at": "2026-11-16T22:10:58Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
    "label": "Trump approval, adjusted average",
    "unit": "% approve",
    "value": 38.2,
-   "asof": "2026-11-10",
-   "delta_30d": -0.6,
-   "n_polls_window": 38,
+   "asof": "2026-11-11",
+   "delta_30d": -0.7,
+   "n_polls_window": 40,
    "source": "Silver Bulletin poll database, house-effect adjusted here, 21-day window"
   },
   "generic_ballot_avg": {
@@ -84662,324 +84662,324 @@
  "charts": {
   "approval_avg": [
    {
-    "date": "2025-05-06",
-    "value": 45.26
+    "date": "2025-05-07",
+    "value": 45.37
    },
    {
-    "date": "2025-05-13",
-    "value": 45.71
+    "date": "2025-05-14",
+    "value": 45.77
    },
    {
-    "date": "2025-05-20",
-    "value": 46.29
+    "date": "2025-05-21",
+    "value": 46.39
    },
    {
-    "date": "2025-05-27",
-    "value": 46.8
+    "date": "2025-05-28",
+    "value": 46.96
    },
    {
-    "date": "2025-06-03",
-    "value": 47.43
+    "date": "2025-06-04",
+    "value": 47.44
    },
    {
-    "date": "2025-06-10",
-    "value": 46.37
+    "date": "2025-06-11",
+    "value": 46.4
    },
    {
-    "date": "2025-06-17",
-    "value": 46.8
+    "date": "2025-06-18",
+    "value": 46.61
    },
    {
-    "date": "2025-06-24",
-    "value": 46.46
+    "date": "2025-06-25",
+    "value": 46.48
    },
    {
-    "date": "2025-07-01",
-    "value": 46.32
+    "date": "2025-07-02",
+    "value": 46.45
    },
    {
-    "date": "2025-07-08",
-    "value": 45.68
+    "date": "2025-07-09",
+    "value": 45.56
    },
    {
-    "date": "2025-07-15",
-    "value": 44.95
+    "date": "2025-07-16",
+    "value": 45.04
    },
    {
-    "date": "2025-07-22",
+    "date": "2025-07-23",
+    "value": 45.02
+   },
+   {
+    "date": "2025-07-30",
+    "value": 44.77
+   },
+   {
+    "date": "2025-08-06",
+    "value": 44.7
+   },
+   {
+    "date": "2025-08-13",
+    "value": 44.27
+   },
+   {
+    "date": "2025-08-20",
+    "value": 45.13
+   },
+   {
+    "date": "2025-08-27",
     "value": 45.05
    },
    {
-    "date": "2025-07-29",
-    "value": 44.75
+    "date": "2025-09-03",
+    "value": 45.02
    },
    {
-    "date": "2025-08-05",
-    "value": 44.82
+    "date": "2025-09-10",
+    "value": 44.86
    },
    {
-    "date": "2025-08-12",
-    "value": 44.35
+    "date": "2025-09-17",
+    "value": 45.29
    },
    {
-    "date": "2025-08-19",
-    "value": 44.99
+    "date": "2025-09-24",
+    "value": 45.19
    },
    {
-    "date": "2025-08-26",
-    "value": 45.15
+    "date": "2025-10-01",
+    "value": 44.76
    },
    {
-    "date": "2025-09-02",
-    "value": 45.01
-   },
-   {
-    "date": "2025-09-09",
+    "date": "2025-10-08",
     "value": 44.83
    },
    {
-    "date": "2025-09-16",
-    "value": 45.24
+    "date": "2025-10-15",
+    "value": 44.98
    },
    {
-    "date": "2025-09-23",
-    "value": 45.26
-   },
-   {
-    "date": "2025-09-30",
-    "value": 44.88
-   },
-   {
-    "date": "2025-10-07",
+    "date": "2025-10-22",
     "value": 44.8
    },
    {
-    "date": "2025-10-14",
-    "value": 44.97
+    "date": "2025-10-29",
+    "value": 43.73
    },
    {
-    "date": "2025-10-21",
-    "value": 44.85
+    "date": "2025-11-05",
+    "value": 43.24
    },
    {
-    "date": "2025-10-28",
-    "value": 43.9
+    "date": "2025-11-12",
+    "value": 42.27
    },
    {
-    "date": "2025-11-04",
-    "value": 43.31
+    "date": "2025-11-19",
+    "value": 42.43
    },
    {
-    "date": "2025-11-11",
-    "value": 42.45
+    "date": "2025-11-26",
+    "value": 42.42
    },
    {
-    "date": "2025-11-18",
-    "value": 42.31
+    "date": "2025-12-03",
+    "value": 42.55
    },
    {
-    "date": "2025-11-25",
-    "value": 42.44
+    "date": "2025-12-10",
+    "value": 43.09
    },
    {
-    "date": "2025-12-02",
-    "value": 42.37
-   },
-   {
-    "date": "2025-12-09",
-    "value": 43.07
-   },
-   {
-    "date": "2025-12-16",
-    "value": 43.45
-   },
-   {
-    "date": "2025-12-23",
+    "date": "2025-12-17",
     "value": 43.21
    },
    {
-    "date": "2025-12-30",
-    "value": 43.16
+    "date": "2025-12-24",
+    "value": 43.13
    },
    {
-    "date": "2026-01-06",
-    "value": 42.86
+    "date": "2025-12-31",
+    "value": 42.87
    },
    {
-    "date": "2026-01-13",
-    "value": 42.86
+    "date": "2026-01-07",
+    "value": 42.77
    },
    {
-    "date": "2026-01-20",
-    "value": 42.78
+    "date": "2026-01-14",
+    "value": 42.77
    },
    {
-    "date": "2026-01-27",
-    "value": 42.82
+    "date": "2026-01-21",
+    "value": 42.84
    },
    {
-    "date": "2026-02-03",
-    "value": 42.29
+    "date": "2026-01-28",
+    "value": 42.7
    },
    {
-    "date": "2026-02-10",
-    "value": 41.69
+    "date": "2026-02-04",
+    "value": 42.18
    },
    {
-    "date": "2026-02-17",
-    "value": 42.37
+    "date": "2026-02-11",
+    "value": 41.75
    },
    {
-    "date": "2026-02-24",
-    "value": 42.82
+    "date": "2026-02-18",
+    "value": 42.3
    },
    {
-    "date": "2026-03-03",
-    "value": 42.67
+    "date": "2026-02-25",
+    "value": 42.92
    },
    {
-    "date": "2026-03-10",
-    "value": 42.37
+    "date": "2026-03-04",
+    "value": 42.72
    },
    {
-    "date": "2026-03-17",
-    "value": 41.6
+    "date": "2026-03-11",
+    "value": 42.3
    },
    {
-    "date": "2026-03-24",
-    "value": 41.16
+    "date": "2026-03-18",
+    "value": 41.73
    },
    {
-    "date": "2026-03-31",
-    "value": 40.72
+    "date": "2026-03-25",
+    "value": 41.18
    },
    {
-    "date": "2026-04-07",
-    "value": 41.08
+    "date": "2026-04-01",
+    "value": 40.8
    },
    {
-    "date": "2026-04-14",
-    "value": 40.76
+    "date": "2026-04-08",
+    "value": 41.03
    },
    {
-    "date": "2026-04-21",
-    "value": 40.53
+    "date": "2026-04-15",
+    "value": 40.78
    },
    {
-    "date": "2026-04-28",
-    "value": 40.44
+    "date": "2026-04-22",
+    "value": 40.59
    },
    {
-    "date": "2026-05-05",
-    "value": 39.93
+    "date": "2026-04-29",
+    "value": 40.34
    },
    {
-    "date": "2026-05-12",
-    "value": 39.64
+    "date": "2026-05-06",
+    "value": 39.94
    },
    {
-    "date": "2026-05-19",
-    "value": 39.36
+    "date": "2026-05-13",
+    "value": 39.62
    },
    {
-    "date": "2026-05-26",
-    "value": 39.69
-   },
-   {
-    "date": "2026-06-02",
-    "value": 39.64
-   },
-   {
-    "date": "2026-06-09",
-    "value": 39.45
-   },
-   {
-    "date": "2026-06-16",
-    "value": 39.84
-   },
-   {
-    "date": "2026-06-23",
-    "value": 40.2
-   },
-   {
-    "date": "2026-06-30",
-    "value": 40.17
-   },
-   {
-    "date": "2026-07-07",
-    "value": 40.38
-   },
-   {
-    "date": "2026-07-14",
-    "value": 40.45
-   },
-   {
-    "date": "2026-07-21",
-    "value": 40.39
-   },
-   {
-    "date": "2026-07-28",
-    "value": 40.11
-   },
-   {
-    "date": "2026-08-04",
-    "value": 39.98
-   },
-   {
-    "date": "2026-08-11",
-    "value": 39.54
-   },
-   {
-    "date": "2026-08-18",
-    "value": 39.65
-   },
-   {
-    "date": "2026-08-25",
-    "value": 39.53
-   },
-   {
-    "date": "2026-09-01",
-    "value": 39.57
-   },
-   {
-    "date": "2026-09-08",
+    "date": "2026-05-20",
     "value": 39.4
    },
    {
-    "date": "2026-09-15",
-    "value": 39.53
+    "date": "2026-05-27",
+    "value": 39.64
    },
    {
-    "date": "2026-09-22",
-    "value": 38.74
+    "date": "2026-06-03",
+    "value": 39.61
    },
    {
-    "date": "2026-09-29",
-    "value": 38.62
+    "date": "2026-06-10",
+    "value": 39.47
    },
    {
-    "date": "2026-10-06",
+    "date": "2026-06-17",
+    "value": 39.9
+   },
+   {
+    "date": "2026-06-24",
+    "value": 40.26
+   },
+   {
+    "date": "2026-07-01",
+    "value": 40.12
+   },
+   {
+    "date": "2026-07-08",
+    "value": 40.41
+   },
+   {
+    "date": "2026-07-15",
+    "value": 40.51
+   },
+   {
+    "date": "2026-07-22",
+    "value": 40.4
+   },
+   {
+    "date": "2026-07-29",
+    "value": 40.16
+   },
+   {
+    "date": "2026-08-05",
+    "value": 40.0
+   },
+   {
+    "date": "2026-08-12",
+    "value": 39.62
+   },
+   {
+    "date": "2026-08-19",
+    "value": 39.63
+   },
+   {
+    "date": "2026-08-26",
+    "value": 39.4
+   },
+   {
+    "date": "2026-09-02",
+    "value": 39.6
+   },
+   {
+    "date": "2026-09-09",
+    "value": 39.68
+   },
+   {
+    "date": "2026-09-16",
+    "value": 39.43
+   },
+   {
+    "date": "2026-09-23",
+    "value": 38.83
+   },
+   {
+    "date": "2026-09-30",
+    "value": 38.73
+   },
+   {
+    "date": "2026-10-07",
     "value": 38.56
    },
    {
-    "date": "2026-10-13",
-    "value": 38.78
+    "date": "2026-10-14",
+    "value": 38.86
    },
    {
-    "date": "2026-10-20",
-    "value": 38.79
+    "date": "2026-10-21",
+    "value": 38.66
    },
    {
-    "date": "2026-10-27",
-    "value": 38.57
+    "date": "2026-10-28",
+    "value": 38.76
    },
    {
-    "date": "2026-11-03",
-    "value": 38.87
+    "date": "2026-11-04",
+    "value": 38.81
    },
    {
-    "date": "2026-11-10",
-    "value": 38.18
+    "date": "2026-11-11",
+    "value": 38.19
    }
   ],
   "generic_margin": [
@@ -87190,10 +87190,6 @@
   ],
   "rasmussen_approval": [
    {
-    "date": "2026-10-31",
-    "value": 42.0
-   },
-   {
     "date": "2026-11-01",
     "value": 43.0
    },
@@ -87220,6 +87216,10 @@
    {
     "date": "2026-11-09",
     "value": 40.0
+   },
+   {
+    "date": "2026-11-11",
+    "value": 41.0
    }
   ],
   "rmg_approval": [
@@ -92342,16 +92342,16 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-11-16T06:38:14Z",
-   "sha256": "4e68e2c38091aab01223767b0ae82ff8a7d593cdd6d5743bc51e1232cc831bd1",
-   "bytes": 1792923,
+   "fetched_at": "2026-11-16T22:10:58Z",
+   "sha256": "282c7d4a2d2143c30ac70a426b6cb307b5010224c3c4c872484014b423428ce4",
+   "bytes": 1794475,
    "file": "sources/sb_approval/2026-11-16.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
   },
   "sb_generic": {
    "source": "sb_generic",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
-   "fetched_at": "2026-11-16T06:38:14Z",
+   "fetched_at": "2026-11-16T22:10:59Z",
    "sha256": "5a0ff534563f708376cf8ad6f79d6ef199cf5d965427d25b30c9e2d8387dca9d",
    "bytes": 188124,
    "file": "sources/sb_generic/2026-11-16.csv",
@@ -92360,7 +92360,7 @@
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-11-16T06:38:15Z",
+   "fetched_at": "2026-11-16T22:10:59Z",
    "sha256": "553ca7c1f04bd9d8166c3a9d8af11a2d5d902adb276c27b1ae7a98c5ff43e122",
    "bytes": 14420,
    "file": "sources/umich/2026-11-16.json",
@@ -92369,7 +92369,7 @@
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-11-16T06:38:15Z",
+   "fetched_at": "2026-11-16T22:10:59Z",
    "sha256": "dd873ddea8336bd6119c44c203e1773e30e1b56710b305cdd73e475df3564876",
    "bytes": 46280,
    "file": "sources/aaii/2026-11-16.html",
@@ -97791,8 +97791,8 @@
   {
    "source": "civiqs",
    "state": "stale",
-   "fetched_days": 0.3,
-   "changed_days": 5.3,
+   "fetched_days": 0.9,
+   "changed_days": 5.9,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -97801,176 +97801,176 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 0.3,
-     "changed_days": 3.3,
+     "fetched_days": 0.9,
+     "changed_days": 3.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-13"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 0.3,
-     "changed_days": 4.3,
+     "fetched_days": 0.9,
+     "changed_days": 4.9,
      "change_budget_days": 10,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-12"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 0.3,
-     "changed_days": 5.3,
+     "fetched_days": 0.9,
+     "changed_days": 5.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-11"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 0.3,
-     "changed_days": 2.3,
+     "fetched_days": 0.9,
+     "changed_days": 2.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-14"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 0.3,
-     "changed_days": 2.3,
+     "fetched_days": 0.9,
+     "changed_days": 2.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-14"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 0.3,
-     "changed_days": 4.3,
+     "fetched_days": 0.9,
+     "changed_days": 4.9,
      "change_budget_days": 4,
      "newest_snapshot": "2026-11-16",
      "newest_reading": "2026-11-12"
@@ -97988,7 +97988,7 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": -0.0,
+   "fetched_days": 0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
@@ -97999,7 +97999,7 @@
    "source": "sb_generic",
    "state": "stale",
    "fetched_days": -0.0,
-   "changed_days": 12.3,
+   "changed_days": 12.9,
    "budget_fetch_days": 2,
    "budget_change_days": 10,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
@@ -98009,7 +98009,7 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 9.5,
+   "changed_days": 10.1,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
@@ -98017,7 +98017,7 @@
   }
  ],
  "operator_status": {
-  "generated_at": "2026-11-16T06:38:09Z",
+  "generated_at": "2026-11-16T22:10:58Z",
   "source_states": [
    {
     "attempts": 1,
@@ -98038,16 +98038,17 @@
    },
    {
     "attempts": 1,
-    "last_error": null,
-    "next_retry": null,
+    "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
+    "next_retry": "2026-11-17T04:10:58Z",
     "next_lock": null,
     "next_deadline": null,
     "route": "ssa.series:civiqs",
     "estimated_spend": 0.0,
-    "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
+    "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
     "evidence": [
-     "22 validated non-empty series",
-     "fetched_days=0.3; changed_days=5.3; fetch_budget=2; change_budget=4; stale_keys=economy_family_retro,inflation_impact"
+     "civiqs/approve_president_trump_2025 (35 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.age-18-34 (32 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.age-35-49 (33 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.age-50-64 (33 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.age-65_ (33 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.education-College_Graduate (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.education-Non-College_Graduate (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.education-Postgraduate (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.gender-Female (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.gender-Male (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.party-Democrat (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.party-Independent (33 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.party-Republican (36 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.race-Black_or_African-American (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.race-Hispanic_Latino (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.race-Other (34 snapshots; newest 2026-11-16); civiqs/approve_president_trump_2025.race-White (32 snapshots; newest 2026-11-16); civiqs/describe_feeling_us (34 snapshots; newest 2026-11-16); civiqs/economy_family_retro (35 snapshots; newest 2026-11-16); civiqs/economy_us_direction (35 snapshots; newest 2026-11-16); civiqs/economy_us_now (35 snapshots; newest 2026-11-16); civiqs/inflation_impact (35 snapshots; newest 2026-11-16)",
+     "fetched_days=0.9; changed_days=5.9; fetch_budget=2; change_budget=4; stale_keys=economy_family_retro,inflation_impact",
+     "live attempt failed; same-source archive used"
     ],
     "alert": true,
     "source": "civiqs",
@@ -98095,8 +98096,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-11-16.csv sha256=4e68e2c38091aab01223767b0ae82ff8a7d593cdd6d5743bc51e1232cc831bd1"
+     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-11-16.csv sha256=282c7d4a2d2143c30ac70a426b6cb307b5010224c3c4c872484014b423428ce4"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -98112,7 +98113,7 @@
     "estimated_spend": 0.0,
     "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
     "evidence": [
-     "fetched_days=-0.0; changed_days=12.3; fetch_budget=2; change_budget=10",
+     "fetched_days=-0.0; changed_days=12.9; fetch_budget=2; change_budget=10",
      "sources/sb_generic/2026-11-16.csv sha256=5a0ff534563f708376cf8ad6f79d6ef199cf5d965427d25b30c9e2d8387dca9d"
     ],
     "alert": true,
@@ -98177,7 +98178,7 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=9.5; fetch_budget=3; change_budget=40",
+     "fetched_days=-0.0; changed_days=10.1; fetch_budget=3; change_budget=40",
      "sources/umich/2026-11-16.json sha256=553ca7c1f04bd9d8166c3a9d8af11a2d5d902adb276c27b1ae7a98c5ff43e122"
     ],
     "alert": false,
@@ -98256,8 +98257,8 @@
     "kind": "source",
     "id": "civiqs",
     "state": "stale",
-    "last_error": null,
-    "required_action": "inspect upstream freshness; do not resolve a new round until the source moves"
+    "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
+    "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release"
    },
    {
     "kind": "source",
