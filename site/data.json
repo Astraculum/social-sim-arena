@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:32:32Z",
+ "generated_at": "2026-11-25T08:43:41Z",
  "season": 0,
  "trackers": {
   "trump_approval_avg": {
@@ -91871,29 +91871,29 @@
   "sb_approval": {
    "source": "sb_approval",
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "fetched_at": "2026-11-24T22:32:32Z",
-   "sha256": "670004f584e90573914e6d9c002ca15748898d9e7014691395c817e716eb0967",
+   "fetched_at": "2026-11-25T08:43:42Z",
+   "sha256": "cd72a9280a0e3b57530d956ce8378be7ed01a6b6a0a6c45aa998131f2ba6a11e",
    "bytes": 1817561,
-   "file": "sources/sb_approval/2026-11-24.csv",
+   "file": "sources/sb_approval/2026-11-25.csv",
    "note": "Silver Bulletin poll database, published as a Google Sheet"
   },
   "umich": {
    "source": "umich",
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "fetched_at": "2026-11-24T22:32:33Z",
+   "fetched_at": "2026-11-25T08:43:43Z",
    "sha256": "57847136a2cda4acf4bcbdc67418d1a83c8281da1bc6efeb1c37975c8c7868bc",
    "bytes": 14438,
-   "file": "sources/umich/2026-11-24.json",
+   "file": "sources/umich/2026-11-25.json",
    "note": "Surveys of Consumers, University of Michigan (sca.isr.umich.edu): tbmics.csv for finals and tbcics.csv for the current preliminary, newest reading 2026-11-01; hash-covered canonical raw composite of http://www.sca.isr.umich.edu/files/tbmics.csv and http://www.sca.isr.umich.edu/files/tbcics.csv"
   },
   "aaii": {
    "source": "aaii",
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "fetched_at": "2026-11-24T22:32:33Z",
+   "fetched_at": "2026-11-25T08:43:43Z",
    "sha256": "8334ad07018f129f80f50ea7d80b4efc3252dfb7071a6b77fcad70e855de7998",
    "bytes": 45991,
-   "file": "sources/aaii/2026-11-24.html",
-   "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-11-24; the full 1987-present .xls is OLE2 and unreadable without a dependency"
+   "file": "sources/aaii/2026-11-25.html",
+   "note": "AAII sentiment survey results page, a ~22-week rolling window parsed against the response's own date 2026-11-25; the full 1987-present .xls is OLE2 and unreadable without a dependency"
   },
   "repo": "https://github.com/Social-Atoms/social-sim-arena"
  },
@@ -97306,13 +97306,13 @@
    "budget_fetch_days": 3,
    "budget_change_days": 12,
    "url": "https://www.aaii.com/sentimentsurvey/sent_results",
-   "file": "sources/aaii/2026-11-24.html"
+   "file": "sources/aaii/2026-11-25.html"
   },
   {
    "source": "civiqs",
    "state": "stale",
-   "fetched_days": 0.9,
-   "changed_days": 8.9,
+   "fetched_days": 0.4,
+   "changed_days": 6.4,
    "budget_fetch_days": 2,
    "budget_change_days": 4,
    "url": null,
@@ -97321,186 +97321,184 @@
    "tracker_health": [
     {
      "key": "approve_president_trump_2025",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.age-18-34",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.age-35-49",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.age-50-64",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.age-65_",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.education-College_Graduate",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.education-Non-College_Graduate",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.education-Postgraduate",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.gender-Female",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.gender-Male",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.party-Democrat",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.party-Independent",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.party-Republican",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.race-Black_or_African-American",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.race-Hispanic_Latino",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.race-Other",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "approve_president_trump_2025.race-White",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-23"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "describe_feeling_us",
-     "fetched_days": 0.9,
-     "changed_days": 5.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 10,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-19"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "economy_family_retro",
-     "fetched_days": 0.9,
-     "changed_days": 8.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-16"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "economy_us_direction",
-     "fetched_days": 0.9,
-     "changed_days": 5.9,
+     "fetched_days": 0.4,
+     "changed_days": 1.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
-     "newest_reading": "2026-11-19"
+     "newest_snapshot": "2026-11-25",
+     "newest_reading": "2026-11-24"
     },
     {
      "key": "economy_us_now",
-     "fetched_days": 0.9,
-     "changed_days": 1.9,
+     "fetched_days": 0.4,
+     "changed_days": 2.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
+     "newest_snapshot": "2026-11-25",
      "newest_reading": "2026-11-23"
     },
     {
      "key": "inflation_impact",
-     "fetched_days": 0.9,
-     "changed_days": 5.9,
+     "fetched_days": 0.4,
+     "changed_days": 6.4,
      "change_budget_days": 4,
-     "newest_snapshot": "2026-11-24",
+     "newest_snapshot": "2026-11-25",
      "newest_reading": "2026-11-19"
     }
    ],
-   "newest_snapshot": "2026-11-24",
-   "newest_reading": "2026-11-23",
+   "newest_snapshot": "2026-11-25",
+   "newest_reading": "2026-11-24",
    "stale_keys": [
-    "economy_family_retro",
-    "economy_us_direction",
     "inflation_impact"
    ],
    "failing_keys": [],
@@ -97509,18 +97507,18 @@
   {
    "source": "sb_approval",
    "state": "ok",
-   "fetched_days": 0.0,
+   "fetched_days": -0.0,
    "changed_days": 0.0,
    "budget_fetch_days": 2,
    "budget_change_days": 7,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS-FKWVTTFtJT6u56e0bqdfoMcXvDO1DUChsJ3jQAMB2lZk2SMqVfmg7dGjclTYkYWz-Pm5lfcLPjp4/pub?output=csv",
-   "file": "sources/sb_approval/2026-11-24.csv"
+   "file": "sources/sb_approval/2026-11-25.csv"
   },
   {
    "source": "sb_generic",
    "state": "stale",
-   "fetched_days": 0.9,
-   "changed_days": 21.0,
+   "fetched_days": 1.4,
+   "changed_days": 21.4,
    "budget_fetch_days": 2,
    "budget_change_days": 10,
    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
@@ -97530,15 +97528,15 @@
    "source": "umich",
    "state": "ok",
    "fetched_days": -0.0,
-   "changed_days": 4.1,
+   "changed_days": 4.5,
    "budget_fetch_days": 3,
    "budget_change_days": 40,
    "url": "http://www.sca.isr.umich.edu/files/tbmics.csv",
-   "file": "sources/umich/2026-11-24.json"
+   "file": "sources/umich/2026-11-25.json"
   }
  ],
  "operator_status": {
-  "generated_at": "2026-11-24T22:32:32Z",
+  "generated_at": "2026-11-25T08:43:41Z",
   "source_states": [
    {
     "attempts": 1,
@@ -97551,7 +97549,7 @@
     "required_action": "none",
     "evidence": [
      "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-     "sources/aaii/2026-11-24.html sha256=8334ad07018f129f80f50ea7d80b4efc3252dfb7071a6b77fcad70e855de7998"
+     "sources/aaii/2026-11-25.html sha256=8334ad07018f129f80f50ea7d80b4efc3252dfb7071a6b77fcad70e855de7998"
     ],
     "alert": false,
     "source": "aaii",
@@ -97568,7 +97566,7 @@
     "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
     "evidence": [
      "22 validated non-empty series",
-     "fetched_days=0.9; changed_days=8.9; fetch_budget=2; change_budget=4; stale_keys=economy_family_retro,economy_us_direction,inflation_impact"
+     "fetched_days=0.4; changed_days=6.4; fetch_budget=2; change_budget=4; stale_keys=inflation_impact"
     ],
     "alert": true,
     "source": "civiqs",
@@ -97616,8 +97614,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-     "sources/sb_approval/2026-11-24.csv sha256=670004f584e90573914e6d9c002ca15748898d9e7014691395c817e716eb0967"
+     "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+     "sources/sb_approval/2026-11-25.csv sha256=cd72a9280a0e3b57530d956ce8378be7ed01a6b6a0a6c45aa998131f2ba6a11e"
     ],
     "alert": false,
     "source": "sb_approval",
@@ -97625,15 +97623,15 @@
    },
    {
     "attempts": 1,
-    "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 22 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 22 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
-    "next_retry": "2026-11-25T04:32:32Z",
+    "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 23 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 23 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
+    "next_retry": "2026-11-25T14:43:41Z",
     "next_lock": null,
     "next_deadline": null,
     "route": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
     "estimated_spend": 0.0,
     "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
     "evidence": [
-     "fetched_days=0.9; changed_days=21.0; fetch_budget=2; change_budget=10"
+     "fetched_days=1.4; changed_days=21.4; fetch_budget=2; change_budget=10"
     ],
     "alert": true,
     "source": "sb_generic",
@@ -97697,8 +97695,8 @@
     "estimated_spend": 0.0,
     "required_action": "none",
     "evidence": [
-     "fetched_days=-0.0; changed_days=4.1; fetch_budget=3; change_budget=40",
-     "sources/umich/2026-11-24.json sha256=57847136a2cda4acf4bcbdc67418d1a83c8281da1bc6efeb1c37975c8c7868bc"
+     "fetched_days=-0.0; changed_days=4.5; fetch_budget=3; change_budget=40",
+     "sources/umich/2026-11-25.json sha256=57847136a2cda4acf4bcbdc67418d1a83c8281da1bc6efeb1c37975c8c7868bc"
     ],
     "alert": false,
     "source": "umich",
@@ -97783,7 +97781,7 @@
     "kind": "source",
     "id": "sb_generic",
     "state": "stale",
-    "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 22 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 22 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
+    "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 23 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 23 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
     "required_action": "inspect upstream freshness; do not resolve a new round until the source moves"
    }
   ]
