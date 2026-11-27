@@ -1,16 +1,9 @@
 {
   "alerts": [
     {
-      "id": "civiqs",
-      "kind": "source",
-      "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
-      "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
-      "state": "stale"
-    },
-    {
       "id": "sb_generic",
       "kind": "source",
-      "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 24 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 24 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
+      "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 25 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 25 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
       "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
       "state": "stale"
     }
@@ -26,14 +19,14 @@
     },
     "sources": {
       "deadline_risk": 0,
-      "healthy": 11,
+      "healthy": 12,
       "retryable_failure": 0,
-      "stale": 2,
+      "stale": 1,
       "unresolvable": 0
     }
   },
   "entrant_round_states": [],
-  "generated_at": "2026-11-26T21:39:51Z",
+  "generated_at": "2026-11-27T08:42:44Z",
   "source_states": [
     {
       "alert": false,
@@ -41,7 +34,7 @@
       "estimated_spend": 0.0,
       "evidence": [
         "fetched_days=-0.0; changed_days=-0.0; fetch_budget=3; change_budget=12",
-        "sources/aaii/2026-11-26.html sha256=06d6b81a5c3dc92c13caa5389fef7968c60fa0dfb66f31097ad4a353bd33d804"
+        "sources/aaii/2026-11-27.html sha256=06d6b81a5c3dc92c13caa5389fef7968c60fa0dfb66f31097ad4a353bd33d804"
       ],
       "last_error": null,
       "next_deadline": null,
@@ -53,22 +46,21 @@
       "state": "healthy"
     },
     {
-      "alert": true,
+      "alert": false,
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "civiqs/approve_president_trump_2025 (39 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.age-18-34 (36 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.age-35-49 (37 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.age-50-64 (37 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.age-65_ (37 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.education-College_Graduate (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.education-Non-College_Graduate (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.education-Postgraduate (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.gender-Female (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.gender-Male (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.party-Democrat (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.party-Independent (37 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.party-Republican (40 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.race-Black_or_African-American (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.race-Hispanic_Latino (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.race-Other (38 snapshots; newest 2026-11-25); civiqs/approve_president_trump_2025.race-White (36 snapshots; newest 2026-11-25); civiqs/describe_feeling_us (38 snapshots; newest 2026-11-25); civiqs/economy_family_retro (39 snapshots; newest 2026-11-25); civiqs/economy_us_direction (39 snapshots; newest 2026-11-25); civiqs/economy_us_now (39 snapshots; newest 2026-11-25); civiqs/inflation_impact (39 snapshots; newest 2026-11-25)",
-        "fetched_days=1.9; changed_days=7.9; fetch_budget=2; change_budget=4; stale_keys=inflation_impact",
-        "live attempt failed; same-source archive used"
+        "22 validated non-empty series",
+        "fetched_days=0.4; changed_days=2.4; fetch_budget=2; change_budget=4"
       ],
-      "last_error": "approve_president_trump_2025: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025; approve_president_trump_2025.party-Republican: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/approve_president_trump_2025?party=Republican; economy_us_now: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_now; economy_us_direction: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_us_direction; economy_family_retro: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/economy_family_retro; inflation_impact: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/inflation_impact; describe_feeling_us: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/describe_feeling_us; approve_president_trump_2025.party-Democrat: HTTPError: 403 Client Error: Forbidden for url: https://civiqs.com/results/app",
+      "last_error": null,
       "next_deadline": null,
       "next_lock": null,
-      "next_retry": "2026-11-27T03:39:51Z",
-      "required_action": "restore live access; the validated same-source archive may support forecasts but is not evidence of a new release",
+      "next_retry": null,
+      "required_action": "none",
       "route": "ssa.series:civiqs",
       "source": "civiqs",
-      "state": "stale"
+      "state": "healthy"
     },
     {
       "alert": false,
@@ -107,8 +99,8 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
-        "sources/sb_approval/2026-11-26.csv sha256=a7368765ca451902ee95cbabad8161b35da9789e40f03243c272bbc797ba0478"
+        "fetched_days=-0.0; changed_days=0.0; fetch_budget=2; change_budget=7",
+        "sources/sb_approval/2026-11-27.csv sha256=808a784e8c60260a751f9364d5aa483839fe480a10d7a9582d137eb41766b884"
       ],
       "last_error": null,
       "next_deadline": null,
@@ -124,12 +116,12 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=2.9; changed_days=22.9; fetch_budget=2; change_budget=10"
+        "fetched_days=3.4; changed_days=23.4; fetch_budget=2; change_budget=10"
       ],
-      "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 24 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 24 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
+      "last_error": "live attempt failed (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 25 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release); no valid same-source archive was usable (RuntimeError: sb_generic HTTP 200 but newest observation is 2026-11-02, 25 days old: frozen page exceeds the 21-day freshness limit; refusing to archive changing wrapper bytes as a new release)",
       "next_deadline": null,
       "next_lock": null,
-      "next_retry": "2026-11-27T03:39:51Z",
+      "next_retry": "2026-11-27T14:42:44Z",
       "required_action": "inspect upstream freshness; do not resolve a new round until the source moves",
       "route": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsvXNCZ0ubJr8D_yNcU5q6C0_HBa35K7oDK03KpO7Ca43UwdXaIdvVLWoXEmHHph0EREz5430Hm5yZ/pub?output=csv",
       "source": "sb_generic",
@@ -188,8 +180,8 @@
       "attempts": 1,
       "estimated_spend": 0.0,
       "evidence": [
-        "fetched_days=-0.0; changed_days=6.1; fetch_budget=3; change_budget=40",
-        "sources/umich/2026-11-26.json sha256=57847136a2cda4acf4bcbdc67418d1a83c8281da1bc6efeb1c37975c8c7868bc"
+        "fetched_days=-0.0; changed_days=6.5; fetch_budget=3; change_budget=40",
+        "sources/umich/2026-11-27.json sha256=57847136a2cda4acf4bcbdc67418d1a83c8281da1bc6efeb1c37975c8c7868bc"
       ],
       "last_error": null,
       "next_deadline": null,
